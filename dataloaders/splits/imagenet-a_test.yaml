@@ -1,0 +1,3002 @@
+data:
+- data/imagenet-a/n02233338/0.002648_box turtle _ garter snake_0.5003477.jpg
+- data/imagenet-a/n02236044/0.001222_chain _ chain_0.58766335.jpg
+- data/imagenet-a/n03837869/0.001981_flagpole _ flagpole_0.9165265.jpg
+- data/imagenet-a/n01694178/0.009192_mantis _ mantis_0.95607764.jpg
+- data/imagenet-a/n02226429/0.000234_shovel _ shovel_0.82089424.jpg
+- data/imagenet-a/n04456115/0.002714_lighthouse _ lighthouse_0.9070593.jpg
+- data/imagenet-a/n02793495/0.000130_flatworm _ stingray_0.5528234.jpg
+- data/imagenet-a/n02236044/0.000157_ambulance _ ambulance_0.8758813.jpg
+- data/imagenet-a/n04133789/0.001478_bikini _ bikini_0.92072576.jpg
+- data/imagenet-a/n09472597/0.002715_submarine _ submarine_0.5150367.jpg
+- data/imagenet-a/n03291819/0.000015_breastplate _ breastplate_0.7994288.jpg
+- data/imagenet-a/n01614925/0.010700_rocking chair _ rocking chair_0.7433879.jpg
+- data/imagenet-a/n01847000/0.012534_armadillo _ armadillo_0.99790287.jpg
+- data/imagenet-a/n04355338/0.004020_castle _ castle_0.83833766.jpg
+- data/imagenet-a/n01910747/0.009573_flatworm _ flatworm_0.84904796.jpg
+- data/imagenet-a/n01677366/0.002701_agama _ agama_0.97168434.jpg
+- data/imagenet-a/n04355338/0.000106_castle _ barn_0.75712645.jpg
+- data/imagenet-a/n02226429/0.001803_doormat _ doormat_0.59191185.jpg
+- data/imagenet-a/n02051845/0.008966_American alligator _ American alligator_0.994975.jpg
+- data/imagenet-a/n03291819/0.000010_balance beam _ balance beam_0.4106999.jpg
+- data/imagenet-a/n01580077/0.002546_nail _ rocking chair_0.7409506.jpg
+- data/imagenet-a/n02137549/0.004526_stick insect _ stick insect_0.57385063.jpg
+- data/imagenet-a/n03355925/0.002672_grand piano _ grand piano_0.8728427.jpg
+- data/imagenet-a/n01534433/0.004413_vulture _ vulture_0.41730365.jpg
+- data/imagenet-a/n02655020/0.004024_sea lion _ hermit crab_0.7567457.jpg
+- data/imagenet-a/n04131690/0.001593_jack-o'-lantern _ jack-o'-lantern_0.9127231.jpg
+- data/imagenet-a/n04347754/0.001042_fountain _ fountain_0.8719907.jpg
+- data/imagenet-a/n04141076/0.001990_shovel _ shovel_0.6684435.jpg
+- data/imagenet-a/n01924916/0.000595_stingray _ stingray_0.99442405.jpg
+- data/imagenet-a/n01770081/0.001241_apron _ apron_0.96202874.jpg
+- data/imagenet-a/n02268443/0.000119_sleeping bag _ sleeping bag_0.94759923.jpg
+- data/imagenet-a/n04310018/0.000041_cliff _ cliff_0.7741328.jpg
+- data/imagenet-a/n02346627/0.000189_marmot _ marmot_0.9980781.jpg
+- data/imagenet-a/n02165456/0.004238_pomegranate _ pomegranate_0.9934756.jpg
+- data/imagenet-a/n01735189/0.000011_sleeping bag _ sleeping bag_0.8492054.jpg
+- data/imagenet-a/n01669191/0.006741_acorn _ acorn_0.95990115.jpg
+- data/imagenet-a/n02137549/0.006889_vulture _ vulture_0.38345042.jpg
+- data/imagenet-a/n01944390/0.004179_cockroach _ cockroach_0.8057016.jpg
+- data/imagenet-a/n02999410/0.001408_forklift _ forklift_0.5362282.jpg
+- data/imagenet-a/n02906734/0.005916_shovel _ shovel_0.9525983.jpg
+- data/imagenet-a/n04310018/0.000060_suspension bridge _ suspension bridge_0.96204203.jpg
+- data/imagenet-a/n04591713/0.000194_balance beam _ balance beam_0.55012393.jpg
+- data/imagenet-a/n04141076/0.003865_torch _ unicycle_0.35890508.jpg
+- data/imagenet-a/n02206856/0.000095_salt shaker _ salt shaker_0.91129124.jpg
+- data/imagenet-a/n02980441/0.000745_Christmas stocking _ Christmas stocking_0.6278344.jpg
+- data/imagenet-a/n02206856/0.000051_syringe _ syringe_0.9857473.jpg
+- data/imagenet-a/n02317335/0.040358_sandal _ sandal_0.6972317.jpg
+- data/imagenet-a/n02346627/0.051413_sea lion _ vulture_0.69347477.jpg
+- data/imagenet-a/n02492035/0.024074_koala _ koala_0.90329206.jpg
+- data/imagenet-a/n04399382/0.008448_cradle _ pug_0.09733206.jpg
+- data/imagenet-a/n02281787/0.000751_feather boa _ feather boa_0.8934107.jpg
+- data/imagenet-a/n12267677/0.000095_sleeping bag _ sleeping bag_0.59007937.jpg
+- data/imagenet-a/n02119022/0.002057_mongoose _ billiard table_0.61428297.jpg
+- data/imagenet-a/n02119022/0.002114_snowplow _ limousine_0.4518117.jpg
+- data/imagenet-a/n01985128/0.003208_baboon _ bee_0.34832716.jpg
+- data/imagenet-a/n02009912/0.001488_American black bear _ American black bear_0.30458358.jpg
+- data/imagenet-a/n02206856/0.000006_bald eagle _ bald eagle_0.9928185.jpg
+- data/imagenet-a/n02814860/0.003433_fountain _ fountain_0.70128036.jpg
+- data/imagenet-a/n01843383/0.007709_white-headed capuchin _ white-headed capuchin_0.997982.jpg
+- data/imagenet-a/n01833805/0.018601_corn _ corn_0.9985526.jpg
+- data/imagenet-a/n02226429/0.000502_lorikeet _ lorikeet_0.9311787.jpg
+- data/imagenet-a/n03443371/0.000179_doormat _ doormat_0.32913226.jpg
+- data/imagenet-a/n02007558/0.000533_great egret _ great egret_0.99159837.jpg
+- data/imagenet-a/n01770081/0.005520_hermit crab _ hermit crab_0.9954033.jpg
+- data/imagenet-a/n02802426/0.001425_rugby ball _ rugby ball_0.5767225.jpg
+- data/imagenet-a/n01698640/0.003921_white-headed capuchin _ white-headed capuchin_0.8464715.jpg
+- data/imagenet-a/n01855672/0.000808_canoe _ shipwreck_0.5265788.jpg
+- data/imagenet-a/n01677366/0.004680_white-headed capuchin _ white-headed capuchin_0.9839886.jpg
+- data/imagenet-a/n01855672/0.001625_garbage truck _ garbage truck_0.38629687.jpg
+- data/imagenet-a/n02009912/0.000130_balance beam _ forklift_0.5051035.jpg
+- data/imagenet-a/n01770393/0.016270_washing machine _ washing machine_0.5474708.jpg
+- data/imagenet-a/n02356798/0.003176_broom _ broom_0.9548109.jpg
+- data/imagenet-a/n04344873/0.000092_drumstick _ drumstick_0.5251923.jpg
+- data/imagenet-a/n02206856/0.000057_cheeseburger _ cheeseburger_0.92198455.jpg
+- data/imagenet-a/n02879718/0.003578_maraca _ maraca_0.6809677.jpg
+- data/imagenet-a/n03355925/0.002470_American alligator _ American alligator_0.20412438.jpg
+- data/imagenet-a/n02206856/0.000131_chain _ chain_0.55035037.jpg
+- data/imagenet-a/n02165456/0.002020_basketball _ basketball_0.57329404.jpg
+- data/imagenet-a/n04317175/0.003135_goblet _ goblet_0.3105056.jpg
+- data/imagenet-a/n03255030/0.000541_baseball player _ baseball player_0.9301466.jpg
+- data/imagenet-a/n03854065/0.002543_accordion _ accordion_0.9868699.jpg
+- data/imagenet-a/n02009912/0.001320_canoe _ canoe_0.9953499.jpg
+- data/imagenet-a/n02268443/0.001905_white-headed capuchin _ white-headed capuchin_0.79200536.jpg
+- data/imagenet-a/n01677366/0.000335_American robin _ American robin_0.79792374.jpg
+- data/imagenet-a/n01914609/0.004677_hermit crab _ hermit crab_0.88879144.jpg
+- data/imagenet-a/n02206856/0.000045_sewing machine _ clothes iron_0.5073917.jpg
+- data/imagenet-a/n02236044/0.001387_rocking chair _ rocking chair_0.62486273.jpg
+- data/imagenet-a/n01774750/0.013986_cliff _ cliff_0.537059.jpg
+- data/imagenet-a/n02226429/0.000760_sulphur-crested cockatoo _ sulphur-crested cockatoo_0.44769457.jpg
+- data/imagenet-a/n01910747/0.000499_hermit crab _ hermit crab_0.9542238.jpg
+- data/imagenet-a/n01735189/0.000324_bow _ bow_0.98267853.jpg
+- data/imagenet-a/n03891332/0.007822_umbrella _ syringe_0.84652877.jpg
+- data/imagenet-a/n09229709/0.001367_lighter _ lighter_0.46338332.jpg
+- data/imagenet-a/n02127052/0.004878_Chihuahua _ Chihuahua_0.83913887.jpg
+- data/imagenet-a/n09472597/0.000514_viaduct _ viaduct_0.99984705.jpg
+- data/imagenet-a/n02906734/0.000388_grand piano _ grand piano_0.76333034.jpg
+- data/imagenet-a/n04039381/0.008365_stethoscope _ stethoscope_0.86723393.jpg
+- data/imagenet-a/n04133789/0.003393_dumbbell _ dumbbell_0.48476264.jpg
+- data/imagenet-a/n02445715/0.002722_jeep _ jeep_0.7229343.jpg
+- data/imagenet-a/n02127052/0.000771_armadillo _ mongoose_0.66647255.jpg
+- data/imagenet-a/n02281787/0.000030_beaker _ beaker_0.7503812.jpg
+- data/imagenet-a/n01914609/0.010025_shovel _ shovel_0.7329392.jpg
+- data/imagenet-a/n02119022/0.004993_lynx _ suspension bridge_0.31382382.jpg
+- data/imagenet-a/n04118538/0.000339_bikini _ bikini_0.8296424.jpg
+- data/imagenet-a/n01770393/0.003300_garter snake _ garter snake_0.94449544.jpg
+- data/imagenet-a/n01985128/0.004177_revolver _ newt_0.85839343.jpg
+- data/imagenet-a/n04355338/0.004933_mosque _ mosque_0.41922918.jpg
+- data/imagenet-a/n01614925/0.006664_baboon _ toucan_0.7529763.jpg
+- data/imagenet-a/n03187595/0.000568_clothes iron _ cowboy boot_0.43482724.jpg
+- data/imagenet-a/n02127052/0.011173_mongoose _ mongoose_0.70635843.jpg
+- data/imagenet-a/n04039381/0.003100_spatula _ spatula_0.54712015.jpg
+- data/imagenet-a/n01687978/0.006570_ant _ kimono_0.66754353.jpg
+- data/imagenet-a/n01616318/0.010706_jay _ jay_0.99323905.jpg
+- data/imagenet-a/n04133789/0.000145_apron _ apron_0.9934603.jpg
+- data/imagenet-a/n02051845/0.015340_flagpole _ flagpole_0.9986172.jpg
+- data/imagenet-a/n02814860/0.001789_suspension bridge _ suspension bridge_0.9339407.jpg
+- data/imagenet-a/n04141076/0.000056_bubble _ bubble_0.9975988.jpg
+- data/imagenet-a/n02787622/0.005051_envelope _ envelope_0.6596726.jpg
+- data/imagenet-a/n02009912/0.004476_mongoose _ red fox_0.5430934.jpg
+- data/imagenet-a/n02268443/0.000797_sea lion _ sea lion_0.31625322.jpg
+- data/imagenet-a/n02236044/0.000650_sulphur-crested cockatoo _ sulphur-crested cockatoo_0.47139075.jpg
+- data/imagenet-a/n07760859/0.001721_salt shaker _ salt shaker_0.854769.jpg
+- data/imagenet-a/n01770393/0.016637_crayfish _ crayfish_0.68220216.jpg
+- data/imagenet-a/n02226429/0.000284_newt _ newt_0.99039674.jpg
+- data/imagenet-a/n01641577/0.002188_chameleon _ cucumber_0.72688377.jpg
+- data/imagenet-a/n03255030/0.003708_clothes iron _ clothes iron_0.920798.jpg
+- data/imagenet-a/n01694178/0.094814_agama _ agama_0.9442983.jpg
+- data/imagenet-a/n03223299/0.001384_sandal _ sandal_0.98281497.jpg
+- data/imagenet-a/n02346627/0.021000_skunk _ skunk_0.61225146.jpg
+- data/imagenet-a/n01910747/0.034175_digital clock _ digital clock_0.97417766.jpg
+- data/imagenet-a/n02236044/0.001837_nail _ nail_0.99668926.jpg
+- data/imagenet-a/n02106550/0.011936_garbage truck _ garbage truck_0.4594553.jpg
+- data/imagenet-a/n02206856/0.000071_duck _ duck_0.95757425.jpg
+- data/imagenet-a/n04270147/0.004386_drumstick _ drumstick_0.9552858.jpg
+- data/imagenet-a/n07831146/0.000920_ocarina _ ocarina_0.86764795.jpg
+- data/imagenet-a/n02356798/0.000036_skunk _ skunk_0.9479611.jpg
+- data/imagenet-a/n11879895/0.006992_airliner _ shipwreck_0.35442615.jpg
+- data/imagenet-a/n02165456/0.000018_envelope _ envelope_0.97718245.jpg
+- data/imagenet-a/n01985128/0.002256_tarantula _ tarantula_0.54183984.jpg
+- data/imagenet-a/n01820546/0.000846_rocking chair _ rocking chair_0.7902894.jpg
+- data/imagenet-a/n04532670/0.000440_cliff _ cliff_0.7356634.jpg
+- data/imagenet-a/n01498041/0.001174_shipwreck _ shipwreck_0.34689608.jpg
+- data/imagenet-a/n01924916/0.000286_rhinoceros beetle _ rhinoceros beetle_0.64625794.jpg
+- data/imagenet-a/n02231487/0.005989_beaker _ beaker_0.9915521.jpg
+- data/imagenet-a/n04039381/0.000040_lighter _ lighter_0.9009273.jpg
+- data/imagenet-a/n01847000/0.000008_fox squirrel _ schooner_0.59215826.jpg
+- data/imagenet-a/n02127052/0.001518_bison _ bison_0.72632897.jpg
+- data/imagenet-a/n01616318/0.005603_rocking chair _ rocking chair_0.3323156.jpg
+- data/imagenet-a/n02190166/0.001015_balance beam _ balance beam_0.42315155.jpg
+- data/imagenet-a/n02051845/0.076846_great egret _ great egret_0.8080496.jpg
+- data/imagenet-a/n04366367/0.000203_rapeseed _ rapeseed_0.9169785.jpg
+- data/imagenet-a/n04591713/0.000067_saxophone _ saxophone_0.99349654.jpg
+- data/imagenet-a/n01641577/0.042695_hermit crab _ hermit crab_0.6065801.jpg
+- data/imagenet-a/n02504458/0.010391_armadillo _ armadillo_0.6272203.jpg
+- data/imagenet-a/n09229709/0.001311_salt shaker _ salt shaker_0.97150075.jpg
+- data/imagenet-a/n02454379/0.045127_baboon _ baboon_0.5637396.jpg
+- data/imagenet-a/n03837869/0.002718_shipwreck _ shipwreck_0.8076924.jpg
+- data/imagenet-a/n02051845/0.002085_schooner _ schooner_0.9543543.jpg
+- data/imagenet-a/n01694178/0.038611_mushroom _ mushroom_0.802139.jpg
+- data/imagenet-a/n02129165/0.025119_sea lion _ sea lion_0.9927297.jpg
+- data/imagenet-a/n04344873/0.006069_rocking chair _ rocking chair_0.5290051.jpg
+- data/imagenet-a/n07583066/0.002346_broccoli _ broccoli_0.70363414.jpg
+- data/imagenet-a/n03445924/0.006298_shipwreck _ shipwreck_0.5156759.jpg
+- data/imagenet-a/n01910747/0.004909_stingray _ stingray_0.96324193.jpg
+- data/imagenet-a/n03724870/0.006496_bow _ bow_0.6954383.jpg
+- data/imagenet-a/n01924916/0.000441_bow _ nail_0.9978441.jpg
+- data/imagenet-a/n02219486/0.000385_sundial _ sundial_0.8341646.jpg
+- data/imagenet-a/n02445715/0.034898_sundial _ sundial_0.18240517.jpg
+- data/imagenet-a/n02206856/0.000059_manhole cover _ manhole cover_0.9733386.jpg
+- data/imagenet-a/n02410509/0.015263_shipwreck _ shipwreck_0.82125616.jpg
+- data/imagenet-a/n02190166/0.000079_white-headed capuchin _ tarantula_0.93068033.jpg
+- data/imagenet-a/n02730930/0.000489_American alligator _ American alligator_0.94091046.jpg
+- data/imagenet-a/n02279972/0.000022_crayfish _ crayfish_0.89101666.jpg
+- data/imagenet-a/n01558993/0.000455_sundial _ sundial_0.9858024.jpg
+- data/imagenet-a/n01558993/0.003758_doormat _ envelope_0.45711032.jpg
+- data/imagenet-a/n02051845/0.005842_shipwreck _ shipwreck_0.6104582.jpg
+- data/imagenet-a/n04591713/0.000343_couch _ couch_0.91866225.jpg
+- data/imagenet-a/n01641577/0.001957_bubble _ stethoscope_0.3093693.jpg
+- data/imagenet-a/n02268443/0.007024_shipwreck _ shipwreck_0.8049731.jpg
+- data/imagenet-a/n03935335/0.004446_beaker _ beaker_0.4711127.jpg
+- data/imagenet-a/n03935335/0.003166_goblet _ goblet_0.51448405.jpg
+- data/imagenet-a/n01558993/0.010645_bubble _ bubble_0.5430495.jpg
+- data/imagenet-a/n03124043/0.005009_chain _ chain_0.54816806.jpg
+- data/imagenet-a/n02009912/0.000039_schooner _ schooner_0.8688918.jpg
+- data/imagenet-a/n01784675/0.012113_stick insect _ stick insect_0.2669813.jpg
+- data/imagenet-a/n01614925/0.003924_bow _ nail_0.39014927.jpg
+- data/imagenet-a/n01924916/0.001332_stick insect _ stick insect_0.6982307.jpg
+- data/imagenet-a/n01641577/0.004028_stick insect _ stick insect_0.94958043.jpg
+- data/imagenet-a/n07734744/0.000711_chameleon _ chameleon_0.94823015.jpg
+- data/imagenet-a/n03355925/0.007331_shipwreck _ shipwreck_0.34259123.jpg
+- data/imagenet-a/n02127052/0.005510_mongoose _ mongoose_0.8551557.jpg
+- data/imagenet-a/n01531178/0.000676_green iguana _ green iguana_0.946888.jpg
+- data/imagenet-a/n03452741/0.001765_cello _ cello_0.73332685.jpg
+- data/imagenet-a/n01531178/0.000871_sundial _ sundial_0.76950157.jpg
+- data/imagenet-a/n01677366/0.004408_mongoose _ mongoose_0.96956956.jpg
+- data/imagenet-a/n02219486/0.000330_sewing machine _ sewing machine_0.9555489.jpg
+- data/imagenet-a/n02317335/0.005192_stick insect _ box turtle_0.67150986.jpg
+- data/imagenet-a/n02127052/0.000108_canoe _ tricycle_0.7666235.jpg
+- data/imagenet-a/n01820546/0.002958_American robin _ American robin_0.9531138.jpg
+- data/imagenet-a/n04442312/0.001997_digital clock _ digital clock_0.31917548.jpg
+- data/imagenet-a/n02206856/0.000028_beaker _ beaker_0.59095436.jpg
+- data/imagenet-a/n01784675/0.024703_stick insect _ stick insect_0.96722347.jpg
+- data/imagenet-a/n07749582/0.005222_cheeseburger _ cheeseburger_0.74838865.jpg
+- data/imagenet-a/n03223299/0.000018_newt _ newt_0.7851645.jpg
+- data/imagenet-a/n01847000/0.000415_cottontail rabbit _ cottontail rabbit_0.9991222.jpg
+- data/imagenet-a/n01641577/0.001832_mantis _ weevil_0.48622987.jpg
+- data/imagenet-a/n02127052/0.002493_American alligator _ American alligator_0.8294659.jpg
+- data/imagenet-a/n01770393/0.023989_tarantula _ ant_0.6812716.jpg
+- data/imagenet-a/n01784675/0.015955_racket _ manhole cover_0.8424531.jpg
+- data/imagenet-a/n02007558/0.004237_great egret _ great egret_0.99122214.jpg
+- data/imagenet-a/n01833805/0.000763_revolver _ revolver_0.7864821.jpg
+- data/imagenet-a/n11879895/0.000142_flagpole _ flagpole_0.94802266.jpg
+- data/imagenet-a/n03717622/0.000471_tricycle _ tricycle_0.9039768.jpg
+- data/imagenet-a/n01534433/0.000437_baboon _ baboon_0.8830415.jpg
+- data/imagenet-a/n02129165/0.000488_red fox _ red fox_0.999385.jpg
+- data/imagenet-a/n03891332/0.000197_racket _ racket_0.3323864.jpg
+- data/imagenet-a/n02999410/0.000095_acoustic guitar _ acoustic guitar_0.34723008.jpg
+- data/imagenet-a/n01770081/0.000480_sandal _ sandal_0.97584814.jpg
+- data/imagenet-a/n02236044/0.000884_parking meter _ parking meter_0.67115414.jpg
+- data/imagenet-a/n01820546/0.006765_toucan _ toucan_0.71914154.jpg
+- data/imagenet-a/n02281787/0.000006_beaker _ beaker_0.9034244.jpg
+- data/imagenet-a/n01924916/0.001378_cockroach _ cockroach_0.7230208.jpg
+- data/imagenet-a/n02119022/0.003707_limousine _ limousine_0.814697.jpg
+- data/imagenet-a/n01531178/0.000402_clothes iron _ clothes iron_0.2667329.jpg
+- data/imagenet-a/n02106550/0.005000_pug _ pug_0.6315784.jpg
+- data/imagenet-a/n02165456/0.001634_harvestman _ harvestman_0.98262227.jpg
+- data/imagenet-a/n01985128/0.002512_shovel _ shipwreck_0.96344215.jpg
+- data/imagenet-a/n07734744/0.001637_cliff _ volcano_0.69804716.jpg
+- data/imagenet-a/n07734744/0.003171_mongoose _ mongoose_0.43771178.jpg
+- data/imagenet-a/n02361337/0.000224_cottontail rabbit _ cottontail rabbit_0.9987437.jpg
+- data/imagenet-a/n01833805/0.002654_mantis _ agama_0.33562884.jpg
+- data/imagenet-a/n01558993/0.007696_bald eagle _ bald eagle_0.4581693.jpg
+- data/imagenet-a/n01944390/0.001624_ladybug _ ladybug_0.95588917.jpg
+- data/imagenet-a/n04366367/0.005181_school bus _ school bus_0.6069827.jpg
+- data/imagenet-a/n01669191/0.002987_porcupine _ pufferfish_0.96503985.jpg
+- data/imagenet-a/n04389033/0.001203_garbage truck _ fountain_0.49573132.jpg
+- data/imagenet-a/n01882714/0.020506_fox squirrel _ fox squirrel_0.47808895.jpg
+- data/imagenet-a/n02999410/0.000062_manhole cover _ manhole cover_0.8887672.jpg
+- data/imagenet-a/n01914609/0.000192_jellyfish _ jellyfish_0.93023914.jpg
+- data/imagenet-a/n02226429/0.000108_stick insect _ stick insect_0.99961406.jpg
+- data/imagenet-a/n01985128/0.003181_vulture _ great egret_0.9597663.jpg
+- data/imagenet-a/n02127052/0.001763_wheelbarrow _ marimba_0.4503525.jpg
+- data/imagenet-a/n01944390/0.000421_scorpion _ scorpion_0.54501826.jpg
+- data/imagenet-a/n02009912/0.003512_bald eagle _ bald eagle_0.79529095.jpg
+- data/imagenet-a/n01694178/0.068988_weevil _ weevil_0.59847325.jpg
+- data/imagenet-a/n01820546/0.000016_flagpole _ flagpole_0.994472.jpg
+- data/imagenet-a/n04591713/0.000578_reel _ reel_0.52750856.jpg
+- data/imagenet-a/n01735189/0.002091_white-headed capuchin _ white-headed capuchin_0.71548945.jpg
+- data/imagenet-a/n02445715/0.008127_mushroom _ cliff_0.29304817.jpg
+- data/imagenet-a/n03724870/0.000014_shipwreck _ shipwreck_0.97399116.jpg
+- data/imagenet-a/n02226429/0.000554_stethoscope _ stethoscope_0.80369496.jpg
+- data/imagenet-a/n02676566/0.008100_saxophone _ saxophone_0.9936069.jpg
+- data/imagenet-a/n01614925/0.010579_goose _ goose_0.9132973.jpg
+- data/imagenet-a/n03355925/0.000111_sundial _ sundial_0.9990023.jpg
+- data/imagenet-a/n03720891/0.002174_salt shaker _ salt shaker_0.89608926.jpg
+- data/imagenet-a/n02356798/0.000394_rocking chair _ rocking chair_0.44274256.jpg
+- data/imagenet-a/n01833805/0.011221_broom _ cockroach_0.8664077.jpg
+- data/imagenet-a/n01698640/0.000325_unicycle _ unicycle_0.23639943.jpg
+- data/imagenet-a/n02226429/0.000009_sea lion _ sea lion_0.9752064.jpg
+- data/imagenet-a/n04275548/0.001114_bee _ bee_0.3382092.jpg
+- data/imagenet-a/n01924916/0.000843_garter snake _ garter snake_0.82080835.jpg
+- data/imagenet-a/n01558993/0.003977_forklift _ forklift_0.4642008.jpg
+- data/imagenet-a/n01820546/0.018267_rocking chair _ rocking chair_0.8203098.jpg
+- data/imagenet-a/n03670208/0.005003_parking meter _ parking meter_0.15008746.jpg
+- data/imagenet-a/n07734744/0.020442_umbrella _ umbrella_0.43513638.jpg
+- data/imagenet-a/n01534433/0.002533_candle _ candle_0.60903656.jpg
+- data/imagenet-a/n01944390/0.000197_American black bear _ American black bear_0.2615548.jpg
+- data/imagenet-a/n02669723/0.001013_grand piano _ grand piano_0.31976745.jpg
+- data/imagenet-a/n03666591/0.001940_goblet _ goblet_0.9018067.jpg
+- data/imagenet-a/n04554684/0.002805_hot dog _ hot dog_0.5417579.jpg
+- data/imagenet-a/n01669191/0.009091_hermit crab _ hermit crab_0.6748909.jpg
+- data/imagenet-a/n02236044/0.001138_bow _ centipede_0.8253024.jpg
+- data/imagenet-a/n02226429/0.001290_agama _ agama_0.8725841.jpg
+- data/imagenet-a/n07768694/0.000191_pretzel _ pretzel_0.78023714.jpg
+- data/imagenet-a/n03255030/0.000966_reel _ reel_0.3811063.jpg
+- data/imagenet-a/n02233338/0.025486_acorn _ stick insect_0.5421018.jpg
+- data/imagenet-a/n02206856/0.000016_organ _ organ_0.99394095.jpg
+- data/imagenet-a/n02883205/0.000233_banjo _ banjo_0.8765456.jpg
+- data/imagenet-a/n04442312/0.005481_shovel _ shovel_0.34908095.jpg
+- data/imagenet-a/n01677366/0.001265_jay _ bald eagle_0.35117525.jpg
+- data/imagenet-a/n02119022/0.008952_Chihuahua _ Chihuahua_0.7659121.jpg
+- data/imagenet-a/n07734744/0.002616_goldfinch _ goldfinch_0.9068479.jpg
+- data/imagenet-a/n04399382/0.000595_hockey puck _ hockey puck_0.63523066.jpg
+- data/imagenet-a/n01833805/0.003614_Chihuahua _ Chihuahua_0.7754123.jpg
+- data/imagenet-a/n02802426/0.000934_sleeping bag _ sleeping bag_0.9554801.jpg
+- data/imagenet-a/n01531178/0.000117_umbrella _ umbrella_0.5545263.jpg
+- data/imagenet-a/n02279972/0.000216_banana _ banana_0.7664516.jpg
+- data/imagenet-a/n01910747/0.000430_snail _ snail_0.78776646.jpg
+- data/imagenet-a/n02356798/0.004281_cottontail rabbit _ cottontail rabbit_0.8113816.jpg
+- data/imagenet-a/n01985128/0.024459_cockroach _ cockroach_0.98961896.jpg
+- data/imagenet-a/n04562935/0.005099_fountain _ fountain_0.3310171.jpg
+- data/imagenet-a/n02190166/0.003665_chest _ chest_0.5935847.jpg
+- data/imagenet-a/n04019541/0.000302_German Shepherd Dog _ German Shepherd Dog_0.56375873.jpg
+- data/imagenet-a/n02356798/0.000478_African bush elephant _ African bush elephant_0.9629875.jpg
+- data/imagenet-a/n02129165/0.004034_German Shepherd Dog _ rocking chair_0.35354438.jpg
+- data/imagenet-a/n02356798/0.000196_sewing machine _ wheelbarrow_0.344523.jpg
+- data/imagenet-a/n01677366/0.005880_white-headed capuchin _ white-headed capuchin_0.99710757.jpg
+- data/imagenet-a/n04208210/0.007005_snowmobile _ snowmobile_0.6322953.jpg
+- data/imagenet-a/n03445924/0.003659_cowboy boot _ cowboy boot_0.775155.jpg
+- data/imagenet-a/n01534433/0.000703_custard apple _ custard apple_0.4200802.jpg
+- data/imagenet-a/n01687978/0.023379_green iguana _ scorpion_0.76223266.jpg
+- data/imagenet-a/n03982430/0.001078_bow tie _ bow tie_0.4112725.jpg
+- data/imagenet-a/n03617480/0.000114_tricycle _ tricycle_0.98200756.jpg
+- data/imagenet-a/n01985128/0.002307_nail _ beaker_0.79534054.jpg
+- data/imagenet-a/n01534433/0.000387_white-headed capuchin _ white-headed capuchin_0.79239386.jpg
+- data/imagenet-a/n02219486/0.000129_pretzel _ pretzel_0.68514943.jpg
+- data/imagenet-a/n02445715/0.038922_flatworm _ broccoli_0.53784716.jpg
+- data/imagenet-a/n01843383/0.016581_custard apple _ custard apple_0.96495724.jpg
+- data/imagenet-a/n03666591/0.001421_wine bottle _ wine bottle_0.99812454.jpg
+- data/imagenet-a/n02782093/0.000187_dumbbell _ dumbbell_0.36404118.jpg
+- data/imagenet-a/n01770393/0.028665_beaker _ beaker_0.5902456.jpg
+- data/imagenet-a/n01614925/0.000120_submarine _ submarine_0.655883.jpg
+- data/imagenet-a/n01833805/0.000159_lighter _ lighter_0.9940023.jpg
+- data/imagenet-a/n02231487/0.000105_American alligator _ American alligator_0.9736269.jpg
+- data/imagenet-a/n02119022/0.013660_shovel _ flagpole_0.48917976.jpg
+- data/imagenet-a/n01770081/0.001890_nail _ wheelbarrow_0.48011014.jpg
+- data/imagenet-a/n01614925/0.021409_pelican _ pelican_0.71540874.jpg
+- data/imagenet-a/n02190166/0.007422_scorpion _ scorpion_0.9802383.jpg
+- data/imagenet-a/n04275548/0.001172_wheelbarrow _ shipwreck_0.5349777.jpg
+- data/imagenet-a/n02948072/0.002303_digital clock _ digital clock_0.928374.jpg
+- data/imagenet-a/n02777292/0.001371_baseball player _ suspension bridge_0.6781362.jpg
+- data/imagenet-a/n02226429/0.000184_chameleon _ chameleon_0.9832411.jpg
+- data/imagenet-a/n09835506/0.006969_basketball _ basketball_0.87241477.jpg
+- data/imagenet-a/n01986214/0.003317_sea lion _ sea lion_0.66399366.jpg
+- data/imagenet-a/n02009912/0.000942_tank _ barn_0.93461096.jpg
+- data/imagenet-a/n07734744/0.001787_pretzel _ pretzel_0.9941381.jpg
+- data/imagenet-a/n01669191/0.019278_green iguana _ green iguana_0.9655105.jpg
+- data/imagenet-a/n01985128/0.023275_shipwreck _ bubble_0.6520447.jpg
+- data/imagenet-a/n01614925/0.001095_pelican _ pelican_0.70456105.jpg
+- data/imagenet-a/n01669191/0.003967_pufferfish _ pufferfish_0.5993986.jpg
+- data/imagenet-a/n02037110/0.005602_vulture _ vulture_0.77169806.jpg
+- data/imagenet-a/n11879895/0.002390_ant _ ant_0.58824795.jpg
+- data/imagenet-a/n02802426/0.000442_racket _ racket_0.3505046.jpg
+- data/imagenet-a/n02879718/0.001843_marimba _ marimba_0.98919654.jpg
+- data/imagenet-a/n03788195/0.005583_castle _ castle_0.93027955.jpg
+- data/imagenet-a/n02492035/0.012258_porcupine _ porcupine_0.9309959.jpg
+- data/imagenet-a/n01735189/0.001042_chain _ doormat_0.45871076.jpg
+- data/imagenet-a/n02233338/0.001938_clothes iron _ clothes iron_0.8253343.jpg
+- data/imagenet-a/n09229709/0.000490_salt shaker _ salt shaker_0.53018343.jpg
+- data/imagenet-a/n02999410/0.000022_basketball _ volleyball_0.5053592.jpg
+- data/imagenet-a/n02190166/0.000037_banjo _ banjo_0.5159422.jpg
+- data/imagenet-a/n03982430/0.008796_sleeping bag _ parachute_0.60860866.jpg
+- data/imagenet-a/n01843383/0.000112_stick insect _ stick insect_0.8070398.jpg
+- data/imagenet-a/n03724870/0.000186_jack-o'-lantern _ jack-o'-lantern_0.99003255.jpg
+- data/imagenet-a/n02879718/0.000059_shovel _ shovel_0.81680065.jpg
+- data/imagenet-a/n04133789/0.001697_apron _ apron_0.84576327.jpg
+- data/imagenet-a/n02119022/0.000342_shipwreck _ shipwreck_0.9492132.jpg
+- data/imagenet-a/n01914609/0.004910_hermit crab _ hermit crab_0.82548076.jpg
+- data/imagenet-a/n03724870/0.002060_maraca _ maraca_0.99521893.jpg
+- data/imagenet-a/n03255030/0.005469_bubble _ bubble_0.9381716.jpg
+- data/imagenet-a/n02445715/0.017376_pug _ parking meter_0.4892912.jpg
+- data/imagenet-a/n04456115/0.000982_suspension bridge _ fountain_0.40101874.jpg
+- data/imagenet-a/n01847000/0.000260_organ _ organ_0.60419375.jpg
+- data/imagenet-a/n03935335/0.006544_dumbbell _ dumbbell_0.37558612.jpg
+- data/imagenet-a/n01631663/0.001242_ant _ leafhopper_0.57769996.jpg
+- data/imagenet-a/n04208210/0.007107_steam locomotive _ steam locomotive_0.7209487.jpg
+- data/imagenet-a/n01847000/0.003377_cottontail rabbit _ saxophone_0.9477566.jpg
+- data/imagenet-a/n02190166/0.000751_snail _ snail_0.58390266.jpg
+- data/imagenet-a/n02236044/0.001741_stick insect _ stick insect_0.73501104.jpg
+- data/imagenet-a/n01820546/0.001267_spider web _ spider web_0.93556195.jpg
+- data/imagenet-a/n02206856/0.000010_sundial _ sundial_0.8477125.jpg
+- data/imagenet-a/n07720875/0.000919_carbonara _ carbonara_0.9723246.jpg
+- data/imagenet-a/n03617480/0.000109_tricycle _ tricycle_0.9414759.jpg
+- data/imagenet-a/n01770081/0.000253_drumstick _ nail_0.79445386.jpg
+- data/imagenet-a/n07831146/0.005607_spatula _ spatula_0.9367688.jpg
+- data/imagenet-a/n02268443/0.000085_submarine _ submarine_0.44414747.jpg
+- data/imagenet-a/n01558993/0.000327_wheelbarrow _ wheelbarrow_0.824971.jpg
+- data/imagenet-a/n02009912/0.000844_parking meter _ parking meter_0.5418227.jpg
+- data/imagenet-a/n01770393/0.029309_stick insect _ stick insect_0.66457516.jpg
+- data/imagenet-a/n01914609/0.005108_jellyfish _ jellyfish_0.8742707.jpg
+- data/imagenet-a/n02133161/0.018109_shovel _ umbrella_0.30274153.jpg
+- data/imagenet-a/n02325366/0.037897_yellow lady's slipper _ yellow lady's slipper_0.21633247.jpg
+- data/imagenet-a/n02007558/0.000206_canoe _ canoe_0.9999814.jpg
+- data/imagenet-a/n04399382/0.003959_bubble _ bubble_0.31287095.jpg
+- data/imagenet-a/n02410509/0.023124_baseball player _ baseball player_0.76853013.jpg
+- data/imagenet-a/n07734744/0.006028_nail _ nail_0.668555.jpg
+- data/imagenet-a/n03666591/0.001185_banana _ banana_0.46394864.jpg
+- data/imagenet-a/n01687978/0.001457_castle _ castle_0.9747661.jpg
+- data/imagenet-a/n01847000/0.001847_beaker _ beaker_0.24933696.jpg
+- data/imagenet-a/n01819313/0.009926_white-headed capuchin _ white-headed capuchin_0.41665062.jpg
+- data/imagenet-a/n02281787/0.000063_crayfish _ crayfish_0.74491.jpg
+- data/imagenet-a/n04131690/0.001417_stethoscope _ stethoscope_0.82759166.jpg
+- data/imagenet-a/n01819313/0.011941_umbrella _ umbrella_0.74047935.jpg
+- data/imagenet-a/n04507155/0.000014_broom _ broom_0.99782467.jpg
+- data/imagenet-a/n03590841/0.003478_scorpion _ scorpion_0.7028809.jpg
+- data/imagenet-a/n01580077/0.006275_unicycle _ unicycle_0.95129687.jpg
+- data/imagenet-a/n02492035/0.014353_marmot _ marmot_0.959353.jpg
+- data/imagenet-a/n03014705/0.000125_steam locomotive _ steam locomotive_0.8500015.jpg
+- data/imagenet-a/n07734744/0.000098_syringe _ syringe_0.9694716.jpg
+- data/imagenet-a/n03724870/0.000028_hockey puck _ hockey puck_0.9362364.jpg
+- data/imagenet-a/n03443371/0.000324_sandal _ sandal_0.9037703.jpg
+- data/imagenet-a/n01687978/0.011841_broom _ doormat_0.3593651.jpg
+- data/imagenet-a/n02356798/0.000197_obelisk _ obelisk_0.90525323.jpg
+- data/imagenet-a/n03594945/0.006286_limousine _ limousine_0.9565918.jpg
+- data/imagenet-a/n01910747/0.004292_shipwreck _ shipwreck_0.9802259.jpg
+- data/imagenet-a/n01924916/0.000237_newt _ newt_0.55403095.jpg
+- data/imagenet-a/n03124043/0.000171_tricycle _ tricycle_0.9459006.jpg
+- data/imagenet-a/n02077923/0.004896_submarine _ submarine_0.9201527.jpg
+- data/imagenet-a/n07768694/0.000121_beaker _ beaker_0.8093282.jpg
+- data/imagenet-a/n02231487/0.007075_cucumber _ cucumber_0.9979511.jpg
+- data/imagenet-a/n01855672/0.002651_oystercatcher _ oystercatcher_0.9593076.jpg
+- data/imagenet-a/n02190166/0.001411_shovel _ shovel_0.6024289.jpg
+- data/imagenet-a/n02007558/0.080164_goose _ goose_0.9762314.jpg
+- data/imagenet-a/n03417042/0.000032_baseball player _ baseball player_0.37590924.jpg
+- data/imagenet-a/n03666591/0.000366_goblet _ goblet_0.83279306.jpg
+- data/imagenet-a/n01580077/0.001988_hummingbird _ hummingbird_0.99083227.jpg
+- data/imagenet-a/n03617480/0.002867_cradle _ balloon_0.22228287.jpg
+- data/imagenet-a/n04039381/0.000182_volleyball _ volleyball_0.8572758.jpg
+- data/imagenet-a/n02797295/0.000775_crayfish _ crayfish_0.9843544.jpg
+- data/imagenet-a/n03888257/0.000015_snowmobile _ snowmobile_0.9046859.jpg
+- data/imagenet-a/n02051845/0.009771_vulture _ cockroach_0.614239.jpg
+- data/imagenet-a/n02077923/0.011415_submarine _ submarine_0.7506608.jpg
+- data/imagenet-a/n02119022/0.000966_chameleon _ mantis_0.39630023.jpg
+- data/imagenet-a/n02009912/0.000073_lighthouse _ lighthouse_0.8044102.jpg
+- data/imagenet-a/n02037110/0.000974_flagpole _ flagpole_0.5913867.jpg
+- data/imagenet-a/n01924916/0.001008_small white _ lemon_0.35285857.jpg
+- data/imagenet-a/n03443371/0.000113_mask _ mask_0.998588.jpg
+- data/imagenet-a/n03717622/0.000147_wine bottle _ wine bottle_0.91000646.jpg
+- data/imagenet-a/n02356798/0.000482_mongoose _ mongoose_0.93059546.jpg
+- data/imagenet-a/n01616318/0.002708_oystercatcher _ oystercatcher_0.76230794.jpg
+- data/imagenet-a/n01534433/0.001086_hockey puck _ hockey puck_0.38310692.jpg
+- data/imagenet-a/n02814860/0.000690_suspension bridge _ suspension bridge_0.49694696.jpg
+- data/imagenet-a/n02226429/0.000014_cowboy boot _ sandal_0.90159154.jpg
+- data/imagenet-a/n02999410/0.000148_chest _ chest_0.9948565.jpg
+- data/imagenet-a/n01498041/0.001489_shovel _ shovel_0.73690397.jpg
+- data/imagenet-a/n02802426/0.006705_unicycle _ unicycle_0.96805644.jpg
+- data/imagenet-a/n02106550/0.000868_unicycle _ candle_0.20245543.jpg
+- data/imagenet-a/n01641577/0.002944_armadillo _ armadillo_0.8936375.jpg
+- data/imagenet-a/n01669191/0.002682_manhole cover _ manhole cover_0.72066677.jpg
+- data/imagenet-a/n04141076/0.002591_broom _ broom_0.74988085.jpg
+- data/imagenet-a/n01614925/0.000595_sea lion _ volcano_0.49180582.jpg
+- data/imagenet-a/n01694178/0.000660_weevil _ weevil_0.8292103.jpg
+- data/imagenet-a/n04146614/0.002363_unicycle _ unicycle_0.73933995.jpg
+- data/imagenet-a/n01694178/0.012336_leafhopper _ leafhopper_0.93914264.jpg
+- data/imagenet-a/n04591713/0.000412_forklift _ forklift_0.26856327.jpg
+- data/imagenet-a/n01924916/0.001080_scorpion _ scorpion_0.96454096.jpg
+- data/imagenet-a/n01985128/0.004612_custard apple _ custard apple_0.68020153.jpg
+- data/imagenet-a/n02356798/0.002755_armadillo _ hermit crab_0.39989963.jpg
+- data/imagenet-a/n02137549/0.000042_shovel _ shovel_0.9703361.jpg
+- data/imagenet-a/n02325366/0.001555_wheelbarrow _ wheelbarrow_0.89264214.jpg
+- data/imagenet-a/n02236044/0.000488_mask _ pretzel_0.32345214.jpg
+- data/imagenet-a/n01833805/0.000056_fox squirrel _ marmot_0.7680684.jpg
+- data/imagenet-a/n03721384/0.000364_organ _ organ_0.9981598.jpg
+- data/imagenet-a/n02009912/0.000494_shipwreck _ sea lion_0.77311814.jpg
+- data/imagenet-a/n02190166/0.000007_goblet _ goblet_0.9339981.jpg
+- data/imagenet-a/n02281787/0.000031_snail _ snail_0.9607764.jpg
+- data/imagenet-a/n01498041/0.010562_jellyfish _ jellyfish_0.9875066.jpg
+- data/imagenet-a/n04562935/0.000967_lighthouse _ lighthouse_0.94879043.jpg
+- data/imagenet-a/n04562935/0.006857_suspension bridge _ suspension bridge_0.64039594.jpg
+- data/imagenet-a/n01677366/0.002263_red fox _ spider web_0.9213998.jpg
+- data/imagenet-a/n02268443/0.003640_mitten _ mitten_0.99809176.jpg
+- data/imagenet-a/n02119022/0.042148_mongoose _ mongoose_0.93800724.jpg
+- data/imagenet-a/n09229709/0.000008_jellyfish _ jellyfish_0.9999839.jpg
+- data/imagenet-a/n03888257/0.004083_rugby ball _ snail_0.41588444.jpg
+- data/imagenet-a/n01558993/0.001106_accordion _ accordion_0.5300096.jpg
+- data/imagenet-a/n01914609/0.004443_starfish _ flatworm_0.8652246.jpg
+- data/imagenet-a/n02165456/0.000133_jellyfish _ jellyfish_0.9927367.jpg
+- data/imagenet-a/n03590841/0.000019_wine bottle _ wine bottle_0.9960289.jpg
+- data/imagenet-a/n02137549/0.003908_schooner _ umbrella_0.2574774.jpg
+- data/imagenet-a/n02454379/0.006237_bow _ bow_0.9469249.jpg
+- data/imagenet-a/n07734744/0.012202_corn _ corn_0.5957004.jpg
+- data/imagenet-a/n01985128/0.005335_cockroach _ cockroach_0.9971699.jpg
+- data/imagenet-a/n02356798/0.000908_white-headed capuchin _ white-headed capuchin_0.9957898.jpg
+- data/imagenet-a/n04146614/0.002306_tank _ tank_0.71061635.jpg
+- data/imagenet-a/n03443371/0.000064_bow tie _ bow tie_0.98465466.jpg
+- data/imagenet-a/n02883205/0.001481_accordion _ accordion_0.9131745.jpg
+- data/imagenet-a/n02279972/0.000396_parachute _ parachute_0.86729795.jpg
+- data/imagenet-a/n04133789/0.001274_cockroach _ cockroach_0.92601013.jpg
+- data/imagenet-a/n02236044/0.002446_stick insect _ stick insect_0.9985043.jpg
+- data/imagenet-a/n01924916/0.000063_nail _ nail_0.986284.jpg
+- data/imagenet-a/n02127052/0.000131_barn _ barn_0.40952817.jpg
+- data/imagenet-a/n07768694/0.000257_carbonara _ carbonara_0.96476114.jpg
+- data/imagenet-a/n04399382/0.001748_cheeseburger _ cheeseburger_0.5278603.jpg
+- data/imagenet-a/n02701002/0.000259_suspension bridge _ suspension bridge_0.5854831.jpg
+- data/imagenet-a/n02325366/0.005843_armadillo _ armadillo_0.5156898.jpg
+- data/imagenet-a/n01631663/0.001910_toaster _ reel_0.5371804.jpg
+- data/imagenet-a/n04540053/0.000978_digital clock _ digital clock_0.32422662.jpg
+- data/imagenet-a/n02106550/0.014035_sewing machine _ digital clock_0.2737894.jpg
+- data/imagenet-a/n04366367/0.002542_shipwreck _ shipwreck_0.71452284.jpg
+- data/imagenet-a/n02110958/0.009489_Christmas stocking _ Christmas stocking_0.6219006.jpg
+- data/imagenet-a/n01534433/0.000919_marmot _ marmot_0.7518201.jpg
+- data/imagenet-a/n02127052/0.000779_suspension bridge _ suspension bridge_0.69638765.jpg
+- data/imagenet-a/n04039381/0.002242_quill _ quill_0.93892914.jpg
+- data/imagenet-a/n04376876/0.008083_mushroom _ mushroom_0.9079683.jpg
+- data/imagenet-a/n02119022/0.016469_bison _ bison_0.22602387.jpg
+- data/imagenet-a/n02051845/0.004392_American alligator _ American alligator_0.80851156.jpg
+- data/imagenet-a/n01694178/0.000616_syringe _ syringe_0.65983695.jpg
+- data/imagenet-a/n07749582/0.009177_pretzel _ pretzel_0.48190704.jpg
+- data/imagenet-a/n01694178/0.001573_tarantula _ cockroach_0.46386275.jpg
+- data/imagenet-a/n01669191/0.007599_American alligator _ American alligator_0.895017.jpg
+- data/imagenet-a/n01847000/0.001276_balance beam _ balance beam_0.5583431.jpg
+- data/imagenet-a/n01498041/0.016300_sea lion _ sea lion_0.9963648.jpg
+- data/imagenet-a/n03854065/0.000002_envelope _ envelope_0.78991103.jpg
+- data/imagenet-a/n01531178/0.000555_sea lion _ sea lion_0.45961636.jpg
+- data/imagenet-a/n02099601/0.002250_marmot _ marmot_0.86775047.jpg
+- data/imagenet-a/n02226429/0.000086_stick insect _ stick insect_0.9959843.jpg
+- data/imagenet-a/n02190166/0.001243_mask _ feather boa_0.48223072.jpg
+- data/imagenet-a/n01631663/0.004398_cowboy boot _ cradle_0.36416608.jpg
+- data/imagenet-a/n01677366/0.005091_cucumber _ cucumber_0.8289223.jpg
+- data/imagenet-a/n02127052/0.001644_cottontail rabbit _ baboon_0.5512799.jpg
+- data/imagenet-a/n01735189/0.000249_breastplate _ breastplate_0.58279127.jpg
+- data/imagenet-a/n09246464/0.004165_volcano _ volcano_0.99301213.jpg
+- data/imagenet-a/n03837869/0.001625_suspension bridge _ suspension bridge_0.931447.jpg
+- data/imagenet-a/n07697313/0.000725_tricycle _ tricycle_0.5080747.jpg
+- data/imagenet-a/n01855672/0.002748_castle _ cliff_0.57527983.jpg
+- data/imagenet-a/n04456115/0.003307_go-kart _ go-kart_0.37415358.jpg
+- data/imagenet-a/n01924916/0.001193_garter snake _ garter snake_0.9474818.jpg
+- data/imagenet-a/n07734744/0.000005_stick insect _ stick insect_0.91300005.jpg
+- data/imagenet-a/n03724870/0.004430_accordion _ accordion_0.25814348.jpg
+- data/imagenet-a/n01820546/0.018287_American robin _ American robin_0.9769678.jpg
+- data/imagenet-a/n04347754/0.000194_washing machine _ washing machine_0.97454447.jpg
+- data/imagenet-a/n04252225/0.003971_wheelbarrow _ wheelbarrow_0.87723774.jpg
+- data/imagenet-a/n02906734/0.001634_obelisk _ obelisk_0.85150486.jpg
+- data/imagenet-a/n02445715/0.027765_armadillo _ armadillo_0.863746.jpg
+- data/imagenet-a/n01843383/0.022418_lorikeet _ lorikeet_0.28256944.jpg
+- data/imagenet-a/n02895154/0.000920_bikini _ stethoscope_0.47870985.jpg
+- data/imagenet-a/n02127052/0.001919_rocking chair _ rocking chair_0.41449538.jpg
+- data/imagenet-a/n02007558/0.001083_shipwreck _ schooner_0.69232327.jpg
+- data/imagenet-a/n02879718/0.000175_snowmobile _ snowmobile_0.9389349.jpg
+- data/imagenet-a/n02325366/0.004682_Rottweiler _ barn_0.36965156.jpg
+- data/imagenet-a/n02281787/0.000363_bee _ bee_0.85589796.jpg
+- data/imagenet-a/n02356798/0.000145_American alligator _ wheelbarrow_0.54247546.jpg
+- data/imagenet-a/n04562935/0.007661_flagpole _ flagpole_0.7036895.jpg
+- data/imagenet-a/n02137549/0.000046_cliff _ American alligator_0.80902416.jpg
+- data/imagenet-a/n01986214/0.009202_box turtle _ box turtle_0.8096453.jpg
+- data/imagenet-a/n03223299/0.001369_parking meter _ parking meter_0.96016246.jpg
+- data/imagenet-a/n02051845/0.004384_submarine _ submarine_0.836834.jpg
+- data/imagenet-a/n01735189/0.000799_shovel _ wheelbarrow_0.5682479.jpg
+- data/imagenet-a/n04179913/0.000924_revolver _ revolver_0.8910011.jpg
+- data/imagenet-a/n02445715/0.003250_flagpole _ flagpole_0.40955457.jpg
+- data/imagenet-a/n01498041/0.016882_American bullfrog _ American bullfrog_0.9493031.jpg
+- data/imagenet-a/n07718472/0.004418_broccoli _ broccoli_0.86053485.jpg
+- data/imagenet-a/n01735189/0.017174_starfish _ starfish_0.9176706.jpg
+- data/imagenet-a/n01819313/0.014482_bow _ bow_0.76738584.jpg
+- data/imagenet-a/n02127052/0.003616_mongoose _ mongoose_0.96821535.jpg
+- data/imagenet-a/n04591713/0.001438_apron _ apron_0.32340395.jpg
+- data/imagenet-a/n04118538/0.000097_marimba _ marimba_0.54402554.jpg
+- data/imagenet-a/n02797295/0.000553_bikini _ bikini_0.99664164.jpg
+- data/imagenet-a/n01531178/0.000176_skunk _ skunk_0.97370976.jpg
+- data/imagenet-a/n02802426/0.006587_unicycle _ unicycle_0.74739665.jpg
+- data/imagenet-a/n01694178/0.023778_American alligator _ American alligator_0.9740103.jpg
+- data/imagenet-a/n02119022/0.006825_shovel _ shovel_0.3353148.jpg
+- data/imagenet-a/n02123394/0.015549_fox squirrel _ fox squirrel_0.71372616.jpg
+- data/imagenet-a/n01770081/0.000031_lynx _ lynx_0.50838345.jpg
+- data/imagenet-a/n02980441/0.000157_bikini _ bubble_0.50830793.jpg
+- data/imagenet-a/n02123394/0.000195_school bus _ centipede_0.4957137.jpg
+- data/imagenet-a/n02165456/0.004163_corn _ corn_0.8722356.jpg
+- data/imagenet-a/n02127052/0.007793_mongoose _ mongoose_0.837271.jpg
+- data/imagenet-a/n02236044/0.000372_acorn _ garter snake_0.37073874.jpg
+- data/imagenet-a/n02123394/0.000778_sleeping bag _ sleeping bag_0.9965237.jpg
+- data/imagenet-a/n02999410/0.000449_cliff _ cliff_0.8488834.jpg
+- data/imagenet-a/n04146614/0.002916_revolver _ bow tie_0.210004.jpg
+- data/imagenet-a/n01641577/0.002693_chain _ chain_0.9191659.jpg
+- data/imagenet-a/n02219486/0.000161_pretzel _ pretzel_0.9938315.jpg
+- data/imagenet-a/n02137549/0.005300_armadillo _ armadillo_0.68983227.jpg
+- data/imagenet-a/n01855672/0.000682_limousine _ limousine_0.87731427.jpg
+- data/imagenet-a/n01819313/0.007377_vulture _ vulture_0.5523132.jpg
+- data/imagenet-a/n01641577/0.007784_salt shaker _ grasshopper_0.71995014.jpg
+- data/imagenet-a/n04039381/0.000276_rocking chair _ rocking chair_0.28575853.jpg
+- data/imagenet-a/n01498041/0.036797_sea lion _ sea lion_0.99898714.jpg
+- data/imagenet-a/n02356798/0.001484_sea lion _ sea lion_0.989565.jpg
+- data/imagenet-a/n02356798/0.000789_baboon _ mongoose_0.8447775.jpg
+- data/imagenet-a/n04355338/0.000095_lighthouse _ lighthouse_0.9834925.jpg
+- data/imagenet-a/n02165456/0.003093_spider web _ spider web_0.86256576.jpg
+- data/imagenet-a/n04507155/0.001577_wheelbarrow _ wheelbarrow_0.645665.jpg
+- data/imagenet-a/n02280649/0.000004_toaster _ cowboy boot_0.54292923.jpg
+- data/imagenet-a/n02948072/0.002417_stethoscope _ stethoscope_0.27997452.jpg
+- data/imagenet-a/n04591713/0.006735_rocking chair _ rocking chair_0.2942306.jpg
+- data/imagenet-a/n03124043/0.000031_doormat _ doormat_0.999734.jpg
+- data/imagenet-a/n04086273/0.006530_scorpion _ scorpion_0.7532981.jpg
+- data/imagenet-a/n04086273/0.005158_bow tie _ bow tie_0.661474.jpg
+- data/imagenet-a/n01669191/0.000376_submarine _ limousine_0.6723967.jpg
+- data/imagenet-a/n04118538/0.004062_bikini _ bikini_0.45284688.jpg
+- data/imagenet-a/n03291819/0.000102_stethoscope _ stethoscope_0.6316957.jpg
+- data/imagenet-a/n01580077/0.020490_centipede _ centipede_0.85699046.jpg
+- data/imagenet-a/n01669191/0.038108_centipede _ centipede_0.58360666.jpg
+- data/imagenet-a/n01820546/0.010181_custard apple _ custard apple_0.75026.jpg
+- data/imagenet-a/n01616318/0.000225_American black bear _ American black bear_0.9898281.jpg
+- data/imagenet-a/n01914609/0.006025_volcano _ jellyfish_0.70643663.jpg
+- data/imagenet-a/n02190166/0.003018_sleeping bag _ sleeping bag_0.85659.jpg
+- data/imagenet-a/n01914609/0.006886_jellyfish _ feather boa_0.69171643.jpg
+- data/imagenet-a/n02317335/0.009694_stingray _ stingray_0.98372483.jpg
+- data/imagenet-a/n07583066/0.002036_fountain _ fountain_0.65361476.jpg
+- data/imagenet-a/n03724870/0.000753_rotary dial telephone _ wine bottle_0.62815243.jpg
+- data/imagenet-a/n04252077/0.001553_snowplow _ snowplow_0.98493075.jpg
+- data/imagenet-a/n02236044/0.001557_acorn _ acorn_0.9696553.jpg
+- data/imagenet-a/n02690373/0.006014_flagpole _ flagpole_0.5697118.jpg
+- data/imagenet-a/n01924916/0.000857_nail _ nail_0.96353436.jpg
+- data/imagenet-a/n03804744/0.006977_chest _ chest_0.81236815.jpg
+- data/imagenet-a/n02236044/0.001023_koala _ koala_0.68833894.jpg
+- data/imagenet-a/n01531178/0.001357_American robin _ American robin_0.9955707.jpg
+- data/imagenet-a/n03666591/0.002911_cowboy boot _ cowboy boot_0.8555242.jpg
+- data/imagenet-a/n02280649/0.006365_bow _ bow_0.847108.jpg
+- data/imagenet-a/n02219486/0.000167_harvestman _ harvestman_0.99916065.jpg
+- data/imagenet-a/n04146614/0.000863_snowplow _ snowplow_0.9990087.jpg
+- data/imagenet-a/n04442312/0.002234_organ _ organ_0.77802175.jpg
+- data/imagenet-a/n04606251/0.002918_goose _ oystercatcher_0.4893412.jpg
+- data/imagenet-a/n02259212/0.001931_nail _ nail_0.9226233.jpg
+- data/imagenet-a/n02009912/0.001080_garbage truck _ garbage truck_0.5601075.jpg
+- data/imagenet-a/n01677366/0.004073_porcupine _ porcupine_0.3757145.jpg
+- data/imagenet-a/n02777292/0.004057_sleeping bag _ sleeping bag_0.9529109.jpg
+- data/imagenet-a/n02129165/0.008825_bison _ bison_0.7931719.jpg
+- data/imagenet-a/n02110958/0.000283_Chihuahua _ Chihuahua_0.98853856.jpg
+- data/imagenet-a/n04399382/0.002091_shovel _ shovel_0.77865994.jpg
+- data/imagenet-a/n01641577/0.002185_American alligator _ American alligator_0.9820519.jpg
+- data/imagenet-a/n01914609/0.006676_custard apple _ custard apple_0.97214895.jpg
+- data/imagenet-a/n01774750/0.002880_porcupine _ porcupine_0.61652285.jpg
+- data/imagenet-a/n04310018/0.000992_snowplow _ snowplow_0.9974656.jpg
+- data/imagenet-a/n01669191/0.036203_newt _ mushroom_0.5944377.jpg
+- data/imagenet-a/n01985128/0.000273_bee _ bee_0.7309047.jpg
+- data/imagenet-a/n01631663/0.003640_mantis _ mantis_0.742904.jpg
+- data/imagenet-a/n04376876/0.000072_piggy bank _ piggy bank_0.94841033.jpg
+- data/imagenet-a/n04067472/0.008498_stingray _ stingray_0.9924218.jpg
+- data/imagenet-a/n03014705/0.004131_organ _ organ_0.6654533.jpg
+- data/imagenet-a/n01985128/0.042603_flatworm _ flatworm_0.52801347.jpg
+- data/imagenet-a/n01631663/0.000733_American alligator _ American alligator_0.9785499.jpg
+- data/imagenet-a/n02346627/0.004197_American black bear _ box turtle_0.6793619.jpg
+- data/imagenet-a/n07749582/0.000129_carbonara _ crayfish_0.22962761.jpg
+- data/imagenet-a/n03717622/0.000116_garbage truck _ garbage truck_0.81650823.jpg
+- data/imagenet-a/n02106550/0.000024_Chihuahua _ Chihuahua_0.9999447.jpg
+- data/imagenet-a/n07831146/0.000562_stethoscope _ stethoscope_0.47723567.jpg
+- data/imagenet-a/n02119022/0.007053_washing machine _ bow_0.14798392.jpg
+- data/imagenet-a/n04067472/0.003612_stingray _ stingray_0.69782186.jpg
+- data/imagenet-a/n02777292/0.057399_baseball player _ unicycle_0.7997002.jpg
+- data/imagenet-a/n02236044/0.000858_stick insect _ stick insect_0.9992144.jpg
+- data/imagenet-a/n02259212/0.002951_bee _ bee_0.5000926.jpg
+- data/imagenet-a/n04317175/0.000019_Chihuahua _ Chihuahua_0.9997032.jpg
+- data/imagenet-a/n02127052/0.001216_rocking chair _ rocking chair_0.7424478.jpg
+- data/imagenet-a/n01820546/0.000077_pelican _ pelican_0.7214187.jpg
+- data/imagenet-a/n01687978/0.009145_shovel _ shovel_0.40334705.jpg
+- data/imagenet-a/n02236044/0.003800_stick insect _ stick insect_0.9996301.jpg
+- data/imagenet-a/n03223299/0.000874_umbrella _ umbrella_0.76698834.jpg
+- data/imagenet-a/n02837789/0.004305_stick insect _ bubble_0.3535876.jpg
+- data/imagenet-a/n02814860/0.000246_green iguana _ green iguana_0.37595657.jpg
+- data/imagenet-a/n02445715/0.011031_wheelbarrow _ wheelbarrow_0.6654278.jpg
+- data/imagenet-a/n02123394/0.001331_American black bear _ American black bear_0.9785583.jpg
+- data/imagenet-a/n04442312/0.005976_kimono _ feather boa_0.29145172.jpg
+- data/imagenet-a/n01924916/0.001260_flamingo _ jellyfish_0.49150205.jpg
+- data/imagenet-a/n02129165/0.036663_baboon _ baboon_0.64341414.jpg
+- data/imagenet-a/n02190166/0.002839_cockroach _ hermit crab_0.90364236.jpg
+- data/imagenet-a/n01833805/0.010353_flamingo _ flamingo_0.92585284.jpg
+- data/imagenet-a/n04366367/0.000106_shipwreck _ shipwreck_0.98831207.jpg
+- data/imagenet-a/n02268443/0.000442_starfish _ starfish_0.6854999.jpg
+- data/imagenet-a/n01774750/0.001363_armadillo _ armadillo_0.8651411.jpg
+- data/imagenet-a/n02127052/0.000139_unicycle _ cliff_0.3099925.jpg
+- data/imagenet-a/n02226429/0.000064_toucan _ toucan_0.40187284.jpg
+- data/imagenet-a/n01616318/0.000683_wheelbarrow _ wheelbarrow_0.45142642.jpg
+- data/imagenet-a/n03724870/0.001366_Christmas stocking _ Christmas stocking_0.5709616.jpg
+- data/imagenet-a/n09229709/0.000084_lemon _ lemon_0.99627054.jpg
+- data/imagenet-a/n04591713/0.000292_volcano _ volcano_0.43100703.jpg
+- data/imagenet-a/n02226429/0.000593_banjo _ banjo_0.61932343.jpg
+- data/imagenet-a/n01833805/0.001862_nail _ nail_0.9580761.jpg
+- data/imagenet-a/n04376876/0.005625_nail _ soap dispenser_0.8315349.jpg
+- data/imagenet-a/n04591713/0.000813_accordion _ accordion_0.31460658.jpg
+- data/imagenet-a/n01531178/0.000239_garbage truck _ garbage truck_0.9997845.jpg
+- data/imagenet-a/n02906734/0.004453_kimono _ kimono_0.29057598.jpg
+- data/imagenet-a/n04275548/0.000131_bubble _ bubble_0.9997998.jpg
+- data/imagenet-a/n04270147/0.003964_goblet _ goblet_0.8922692.jpg
+- data/imagenet-a/n02445715/0.034886_armadillo _ armadillo_0.36196816.jpg
+- data/imagenet-a/n01534433/0.001266_parking meter _ parking meter_0.6245882.jpg
+- data/imagenet-a/n02007558/0.007226_great egret _ great egret_0.7574533.jpg
+- data/imagenet-a/n02206856/0.000505_bubble _ bubble_0.81626487.jpg
+- data/imagenet-a/n02281787/0.003811_envelope _ envelope_0.72344446.jpg
+- data/imagenet-a/n02106550/0.003614_acoustic guitar _ acoustic guitar_0.76055217.jpg
+- data/imagenet-a/n01910747/0.077295_sea anemone _ sea anemone_0.63524675.jpg
+- data/imagenet-a/n02504458/0.000330_armadillo _ armadillo_0.57608616.jpg
+- data/imagenet-a/n02787622/0.003737_wheelbarrow _ wheelbarrow_0.6184024.jpg
+- data/imagenet-a/n03417042/0.000174_obelisk _ obelisk_0.9524261.jpg
+- data/imagenet-a/n02123394/0.003801_sleeping bag _ sleeping bag_0.74443907.jpg
+- data/imagenet-a/n02281787/0.000239_marmot _ marmot_0.58858496.jpg
+- data/imagenet-a/n02655020/0.001939_crayfish _ crayfish_0.7939939.jpg
+- data/imagenet-a/n01677366/0.001803_canoe _ canoe_0.98944026.jpg
+- data/imagenet-a/n07697537/0.002326_syringe _ syringe_0.86673886.jpg
+- data/imagenet-a/n02009912/0.001943_banjo _ hockey puck_0.80051434.jpg
+- data/imagenet-a/n02007558/0.016252_great egret _ great egret_0.42856973.jpg
+- data/imagenet-a/n04275548/0.000593_salt shaker _ salt shaker_0.95623183.jpg
+- data/imagenet-a/n04456115/0.000558_fountain _ fountain_0.8565091.jpg
+- data/imagenet-a/n01770393/0.006768_agama _ agama_0.87438935.jpg
+- data/imagenet-a/n01924916/0.000080_goblet _ goblet_0.6318647.jpg
+- data/imagenet-a/n01843383/0.031681_hummingbird _ hummingbird_0.84037197.jpg
+- data/imagenet-a/n01855672/0.002751_German Shepherd Dog _ German Shepherd Dog_0.35694844.jpg
+- data/imagenet-a/n01819313/0.000719_volcano _ volcano_0.98283505.jpg
+- data/imagenet-a/n01820546/0.002072_Rottweiler _ barn_0.7930856.jpg
+- data/imagenet-a/n01819313/0.001983_airliner _ airliner_0.29967448.jpg
+- data/imagenet-a/n03666591/0.000019_torch _ torch_0.99114007.jpg
+- data/imagenet-a/n04591713/0.003139_reel _ reel_0.670567.jpg
+- data/imagenet-a/n01698640/0.010258_skunk _ skunk_0.9812416.jpg
+- data/imagenet-a/n01614925/0.001834_umbrella _ umbrella_0.48831773.jpg
+- data/imagenet-a/n01498041/0.004898_American bullfrog _ American bullfrog_0.32874936.jpg
+- data/imagenet-a/n02051845/0.000124_American black bear _ American black bear_0.37709248.jpg
+- data/imagenet-a/n02793495/0.000798_broom _ broom_0.9629646.jpg
+- data/imagenet-a/n07768694/0.000620_guacamole _ carbonara_0.33949748.jpg
+- data/imagenet-a/n04554684/0.004115_soap dispenser _ soap dispenser_0.9937803.jpg
+- data/imagenet-a/n01687978/0.000438_breastplate _ breastplate_0.54241073.jpg
+- data/imagenet-a/n02782093/0.000320_bubble _ bubble_0.7069782.jpg
+- data/imagenet-a/n01669191/0.007653_red fox _ armadillo_0.4384385.jpg
+- data/imagenet-a/n04399382/0.000109_forklift _ forklift_0.72478783.jpg
+- data/imagenet-a/n02356798/0.000213_mongoose _ sea lion_0.9795233.jpg
+- data/imagenet-a/n01498041/0.006611_nail _ nail_0.76995707.jpg
+- data/imagenet-a/n01910747/0.001096_sundial _ manhole cover_0.6923908.jpg
+- data/imagenet-a/n01698640/0.015131_mongoose _ mongoose_0.5798441.jpg
+- data/imagenet-a/n01985128/0.001013_spider web _ spider web_0.9960218.jpg
+- data/imagenet-a/n01558993/0.003228_limousine _ limousine_0.54188585.jpg
+- data/imagenet-a/n04347754/0.000199_jeep _ jeep_0.836075.jpg
+- data/imagenet-a/n01944390/0.002547_hockey puck _ hockey puck_0.6958497.jpg
+- data/imagenet-a/n04141076/0.002638_digital clock _ digital clock_0.6331345.jpg
+- data/imagenet-a/n01580077/0.018148_shovel _ marimba_0.26768482.jpg
+- data/imagenet-a/n01694178/0.040098_green iguana _ green iguana_0.9580898.jpg
+- data/imagenet-a/n02655020/0.013163_stingray _ stingray_0.98074317.jpg
+- data/imagenet-a/n01580077/0.009146_cottontail rabbit _ cottontail rabbit_0.91507214.jpg
+- data/imagenet-a/n01580077/0.002353_agama _ agama_0.92816144.jpg
+- data/imagenet-a/n01924916/0.000104_hermit crab _ hermit crab_0.70438975.jpg
+- data/imagenet-a/n02129165/0.001333_pug _ Chihuahua_0.83134824.jpg
+- data/imagenet-a/n01819313/0.002028_barn _ barn_0.6532165.jpg
+- data/imagenet-a/n02127052/0.001275_quill _ armadillo_0.99155396.jpg
+- data/imagenet-a/n04133789/0.000101_golf cart _ golf cart_0.93674314.jpg
+- data/imagenet-a/n12267677/0.003951_ocarina _ sleeping bag_0.32732534.jpg
+- data/imagenet-a/n01855672/0.003832_cottontail rabbit _ cottontail rabbit_0.9901012.jpg
+- data/imagenet-a/n04344873/0.002067_banjo _ banjo_0.5066929.jpg
+- data/imagenet-a/n03384352/0.002655_school bus _ school bus_0.9888694.jpg
+- data/imagenet-a/n02454379/0.021137_goose _ tricycle_0.86075467.jpg
+- data/imagenet-a/n07697313/0.005682_hot dog _ hot dog_0.9772924.jpg
+- data/imagenet-a/n03891332/0.002763_rocking chair _ suspension bridge_0.20285022.jpg
+- data/imagenet-a/n03837869/0.003302_parking meter _ parking meter_0.22903043.jpg
+- data/imagenet-a/n04562935/0.000633_steam locomotive _ steam locomotive_0.99789584.jpg
+- data/imagenet-a/n04347754/0.000169_washing machine _ washing machine_0.9620058.jpg
+- data/imagenet-a/n02236044/0.001768_reel _ reel_0.9064634.jpg
+- data/imagenet-a/n02127052/0.016801_baboon _ baboon_0.3242146.jpg
+- data/imagenet-a/n02906734/0.000163_stethoscope _ stethoscope_0.9290994.jpg
+- data/imagenet-a/n03724870/0.001772_hair dryer _ hair dryer_0.33142048.jpg
+- data/imagenet-a/n01914609/0.006269_feather boa _ feather boa_0.9997948.jpg
+- data/imagenet-a/n02206856/0.000051_washing machine _ washing machine_0.69209635.jpg
+- data/imagenet-a/n02730930/0.000436_beaker _ beaker_0.9955289.jpg
+- data/imagenet-a/n02206856/0.000236_washing machine _ lorikeet_0.33885428.jpg
+- data/imagenet-a/n02077923/0.002589_hockey puck _ hockey puck_0.6187673.jpg
+- data/imagenet-a/n02676566/0.006908_umbrella _ umbrella_0.49098602.jpg
+- data/imagenet-a/n01914609/0.008236_hermit crab _ hermit crab_0.8671993.jpg
+- data/imagenet-a/n01855672/0.000200_flagpole _ flagpole_0.88945335.jpg
+- data/imagenet-a/n03325584/0.004879_quill _ quill_0.9994456.jpg
+- data/imagenet-a/n03452741/0.004399_forklift _ forklift_0.39940968.jpg
+- data/imagenet-a/n02009912/0.000208_garbage truck _ garbage truck_0.71441245.jpg
+- data/imagenet-a/n01735189/0.003701_cockroach _ cockroach_0.7752338.jpg
+- data/imagenet-a/n04591713/0.000648_crayfish _ crayfish_0.47826684.jpg
+- data/imagenet-a/n02219486/0.000267_hair dryer _ hair dryer_0.6883118.jpg
+- data/imagenet-a/n01855672/0.000176_canoe _ canoe_0.9871603.jpg
+- data/imagenet-a/n03891332/0.000447_African bush elephant _ African bush elephant_0.9906557.jpg
+- data/imagenet-a/n02133161/0.047805_bison _ bison_0.9214585.jpg
+- data/imagenet-a/n01944390/0.001847_piggy bank _ piggy bank_0.8496196.jpg
+- data/imagenet-a/n02123394/0.000665_washing machine _ washing machine_0.99712974.jpg
+- data/imagenet-a/n02236044/0.002840_rhinoceros beetle _ rhinoceros beetle_0.62729746.jpg
+- data/imagenet-a/n01924916/0.001001_snail _ hermit crab_0.7977762.jpg
+- data/imagenet-a/n03355925/0.008456_canoe _ canoe_0.24584532.jpg
+- data/imagenet-a/n02009912/0.001046_shipwreck _ shipwreck_0.62896794.jpg
+- data/imagenet-a/n01694178/0.006305_newt _ newt_0.9970794.jpg
+- data/imagenet-a/n02279972/0.004744_apron _ apron_0.45938152.jpg
+- data/imagenet-a/n01820546/0.003649_wheelbarrow _ wheelbarrow_0.8843854.jpg
+- data/imagenet-a/n01910747/0.000422_newt _ scorpion_0.46647257.jpg
+- data/imagenet-a/n02325366/0.012656_baboon _ baboon_0.5969686.jpg
+- data/imagenet-a/n02356798/0.000002_manhole cover _ manhole cover_0.877588.jpg
+- data/imagenet-a/n02279972/0.000281_wheelbarrow _ wheelbarrow_0.6959271.jpg
+- data/imagenet-a/n02814860/0.001132_fountain _ fountain_0.9755833.jpg
+- data/imagenet-a/n04344873/0.002100_ocarina _ ocarina_0.73449695.jpg
+- data/imagenet-a/n02883205/0.004229_billiard table _ billiard table_0.9191183.jpg
+- data/imagenet-a/n01855672/0.004119_wheelbarrow _ wheelbarrow_0.414736.jpg
+- data/imagenet-a/n03888257/0.001682_schooner _ schooner_0.59220773.jpg
+- data/imagenet-a/n01580077/0.015341_white-headed capuchin _ white-headed capuchin_0.78004014.jpg
+- data/imagenet-a/n02504458/0.025769_mongoose _ American black bear_0.9460376.jpg
+- data/imagenet-a/n02980441/0.001505_lighthouse _ lighthouse_0.9873476.jpg
+- data/imagenet-a/n04540053/0.002497_racket _ racket_0.98942786.jpg
+- data/imagenet-a/n02165456/0.004443_mushroom _ mushroom_0.80374753.jpg
+- data/imagenet-a/n01924916/0.000081_syringe _ syringe_0.9456038.jpg
+- data/imagenet-a/n02655020/0.036428_American alligator _ armadillo_0.8434352.jpg
+- data/imagenet-a/n01558993/0.002030_unicycle _ unicycle_0.9812764.jpg
+- data/imagenet-a/n04133789/0.006821_accordion _ accordion_0.48491883.jpg
+- data/imagenet-a/n01641577/0.005290_snowmobile _ snowmobile_0.71322095.jpg
+- data/imagenet-a/n02325366/0.001738_American black bear _ American black bear_0.82382137.jpg
+- data/imagenet-a/n07749582/0.000611_wine bottle _ wine bottle_0.21938792.jpg
+- data/imagenet-a/n07697537/0.000161_bow tie _ bow tie_0.99331.jpg
+- data/imagenet-a/n03388043/0.000112_dumbbell _ dumbbell_0.49556422.jpg
+- data/imagenet-a/n02999410/0.002198_reel _ reel_0.9962239.jpg
+- data/imagenet-a/n02676566/0.000314_mosque _ shipwreck_0.25559372.jpg
+- data/imagenet-a/n03837869/0.002014_suspension bridge _ suspension bridge_0.81768304.jpg
+- data/imagenet-a/n01677366/0.011217_white-headed capuchin _ white-headed capuchin_0.41479424.jpg
+- data/imagenet-a/n04507155/0.000602_obelisk _ obelisk_0.6424966.jpg
+- data/imagenet-a/n02268443/0.000011_oystercatcher _ oystercatcher_0.9450619.jpg
+- data/imagenet-a/n04086273/0.000219_marimba _ marimba_0.7152233.jpg
+- data/imagenet-a/n01784675/0.004688_nail _ nail_0.9971432.jpg
+- data/imagenet-a/n04347754/0.000031_ambulance _ ambulance_0.3229263.jpg
+- data/imagenet-a/n02814860/0.006340_fountain _ fountain_0.7891514.jpg
+- data/imagenet-a/n07768694/0.000261_carbonara _ carbonara_0.47797853.jpg
+- data/imagenet-a/n02123394/0.005290_lynx _ lynx_0.9907051.jpg
+- data/imagenet-a/n02119022/0.003779_sea lion _ sea lion_0.7437209.jpg
+- data/imagenet-a/n01534433/0.002125_white-headed capuchin _ white-headed capuchin_0.98132664.jpg
+- data/imagenet-a/n01986214/0.002291_steam locomotive _ steam locomotive_0.7931731.jpg
+- data/imagenet-a/n01580077/0.013746_bald eagle _ bald eagle_0.8159244.jpg
+- data/imagenet-a/n02051845/0.052586_submarine _ submarine_0.67078316.jpg
+- data/imagenet-a/n03223299/0.001528_hot dog _ hot dog_0.9147216.jpg
+- data/imagenet-a/n01677366/0.000450_stick insect _ stick insect_0.9933309.jpg
+- data/imagenet-a/n02123394/0.000224_American black bear _ American black bear_0.99721706.jpg
+- data/imagenet-a/n02325366/0.056498_red fox _ Chihuahua_0.4435526.jpg
+- data/imagenet-a/n02165456/0.000000_stick insect _ stick insect_0.9991732.jpg
+- data/imagenet-a/n02669723/0.000179_maraca _ maraca_0.9951545.jpg
+- data/imagenet-a/n07760859/0.001160_shovel _ shovel_0.47235957.jpg
+- data/imagenet-a/n02236044/0.001545_starfish _ starfish_0.99992275.jpg
+- data/imagenet-a/n02279972/0.000112_washing machine _ washing machine_0.48156932.jpg
+- data/imagenet-a/n01770393/0.001799_stick insect _ stick insect_0.69279855.jpg
+- data/imagenet-a/n04389033/0.004105_steam locomotive _ steam locomotive_0.98776346.jpg
+- data/imagenet-a/n02325366/0.010606_red fox _ red fox_0.2978763.jpg
+- data/imagenet-a/n01855672/0.001815_baboon _ baboon_0.9813731.jpg
+- data/imagenet-a/n04507155/0.000900_washing machine _ washing machine_0.678451.jpg
+- data/imagenet-a/n02077923/0.093254_fountain _ fountain_0.50693774.jpg
+- data/imagenet-a/n01833805/0.002032_acorn _ acorn_0.75143075.jpg
+- data/imagenet-a/n03720891/0.001087_go-kart _ go-kart_0.6433134.jpg
+- data/imagenet-a/n02231487/0.000773_doormat _ doormat_0.70757264.jpg
+- data/imagenet-a/n02190166/0.002294_cockroach _ pretzel_0.91682464.jpg
+- data/imagenet-a/n02009912/0.002150_viaduct _ wheelbarrow_0.82170534.jpg
+- data/imagenet-a/n01614925/0.000160_volcano _ volcano_0.67753476.jpg
+- data/imagenet-a/n01855672/0.000335_snowplow _ snowplow_0.5881045.jpg
+- data/imagenet-a/n02281787/0.004691_canoe _ canoe_0.8617816.jpg
+- data/imagenet-a/n01669191/0.002078_baboon _ unicycle_0.7228384.jpg
+- data/imagenet-a/n02009912/0.000059_limousine _ limousine_0.79070795.jpg
+- data/imagenet-a/n01631663/0.001385_cockroach _ cockroach_0.90947556.jpg
+- data/imagenet-a/n07583066/0.001325_crayfish _ crayfish_0.99516845.jpg
+- data/imagenet-a/n02009912/0.000075_torch _ torch_0.8809289.jpg
+- data/imagenet-a/n03388043/0.000264_manhole cover _ manhole cover_0.9679157.jpg
+- data/imagenet-a/n04399382/0.000330_cowboy boot _ cowboy boot_0.5037615.jpg
+- data/imagenet-a/n02504458/0.003918_armadillo _ baboon_0.73496324.jpg
+- data/imagenet-a/n01985128/0.004372_cliff _ cliff_0.95227104.jpg
+- data/imagenet-a/n02356798/0.002678_American alligator _ American alligator_0.7309057.jpg
+- data/imagenet-a/n01498041/0.002886_sandal _ sandal_0.9212473.jpg
+- data/imagenet-a/n07714990/0.000479_spatula _ spatula_0.9639302.jpg
+- data/imagenet-a/n02231487/0.000620_sandal _ sandal_0.97983825.jpg
+- data/imagenet-a/n01819313/0.069432_wheelbarrow _ wheelbarrow_0.5960256.jpg
+- data/imagenet-a/n03840681/0.004601_stethoscope _ tricycle_0.48624724.jpg
+- data/imagenet-a/n02137549/0.003541_volcano _ volcano_0.6835949.jpg
+- data/imagenet-a/n01641577/0.051728_American alligator _ American alligator_0.84195954.jpg
+- data/imagenet-a/n01833805/0.016312_quill _ quill_0.99657804.jpg
+- data/imagenet-a/n02190166/0.000154_American bullfrog _ American bullfrog_0.7118879.jpg
+- data/imagenet-a/n01735189/0.009996_sandal _ starfish_0.6638168.jpg
+- data/imagenet-a/n03888257/0.002810_balloon _ balloon_0.9992526.jpg
+- data/imagenet-a/n02279972/0.000106_balance beam _ snowplow_0.9829123.jpg
+- data/imagenet-a/n04509417/0.003582_saxophone _ banjo_0.98554057.jpg
+- data/imagenet-a/n01910747/0.000763_pufferfish _ pufferfish_0.9994343.jpg
+- data/imagenet-a/n02782093/0.000148_envelope _ couch_0.6229323.jpg
+- data/imagenet-a/n01820546/0.008351_lemon _ lemon_0.4320936.jpg
+- data/imagenet-a/n02190166/0.000251_canoe _ canoe_0.27861026.jpg
+- data/imagenet-a/n07718472/0.000366_hot dog _ hot dog_0.8804352.jpg
+- data/imagenet-a/n02356798/0.000748_doormat _ doormat_0.5340761.jpg
+- data/imagenet-a/n01833805/0.011632_agama _ dragonfly_0.68014646.jpg
+- data/imagenet-a/n03388043/0.000175_stingray _ stingray_0.7746027.jpg
+- data/imagenet-a/n07734744/0.014583_vulture _ shovel_0.40596926.jpg
+- data/imagenet-a/n12144580/0.000128_water tower _ water tower_0.32757735.jpg
+- data/imagenet-a/n02782093/0.000455_syringe _ syringe_0.8350158.jpg
+- data/imagenet-a/n01694178/0.002929_American alligator _ American alligator_0.9900225.jpg
+- data/imagenet-a/n01531178/0.005636_toucan _ toucan_0.87000734.jpg
+- data/imagenet-a/n01770081/0.002714_umbrella _ breastplate_0.34010136.jpg
+- data/imagenet-a/n01631663/0.011300_American bullfrog _ garter snake_0.74688566.jpg
+- data/imagenet-a/n01847000/0.000167_bikini _ bikini_0.8739928.jpg
+- data/imagenet-a/n01924916/0.000254_stick insect _ stick insect_0.8584848.jpg
+- data/imagenet-a/n02129165/0.005757_pug _ pug_0.96452636.jpg
+- data/imagenet-a/n01833805/0.001230_mantis _ mantis_0.5046882.jpg
+- data/imagenet-a/n02226429/0.002318_goblet _ goblet_0.953607.jpg
+- data/imagenet-a/n07753592/0.000001_digital clock _ digital clock_0.56502366.jpg
+- data/imagenet-a/n02672831/0.000178_racket _ baseball player_0.79479235.jpg
+- data/imagenet-a/n04133789/0.001524_apron _ apron_0.58518994.jpg
+- data/imagenet-a/n03255030/0.000772_umbrella _ umbrella_0.31530023.jpg
+- data/imagenet-a/n01616318/0.002855_junco _ junco_0.82904476.jpg
+- data/imagenet-a/n01534433/0.000131_sea lion _ sea lion_0.99667895.jpg
+- data/imagenet-a/n02346627/0.004580_white-headed capuchin _ white-headed capuchin_0.9786861.jpg
+- data/imagenet-a/n01770081/0.001032_doormat _ doormat_0.6741058.jpg
+- data/imagenet-a/n01641577/0.001315_scorpion _ scorpion_0.53730214.jpg
+- data/imagenet-a/n01914609/0.006353_flatworm _ flatworm_0.78632456.jpg
+- data/imagenet-a/n01616318/0.001649_tricycle _ tricycle_0.6413895.jpg
+- data/imagenet-a/n02999410/0.006441_billiard table _ billiard table_0.077919014.jpg
+- data/imagenet-a/n03250847/0.006435_beaker _ tricycle_0.18450204.jpg
+- data/imagenet-a/n04208210/0.000055_ocarina _ ocarina_0.9253888.jpg
+- data/imagenet-a/n01924916/0.001389_newt _ newt_0.87829053.jpg
+- data/imagenet-a/n02356798/0.000861_green iguana _ green iguana_0.99392647.jpg
+- data/imagenet-a/n02999410/0.000423_parking meter _ parking meter_0.6653561.jpg
+- data/imagenet-a/n02137549/0.004400_cottontail rabbit _ cottontail rabbit_0.98840535.jpg
+- data/imagenet-a/n04133789/0.007569_go-kart _ go-kart_0.34988606.jpg
+- data/imagenet-a/n02190166/0.000058_hot dog _ hot dog_0.96785945.jpg
+- data/imagenet-a/n02009912/0.000149_mosque _ lighthouse_0.53457606.jpg
+- data/imagenet-a/n02127052/0.003261_snowmobile _ snowmobile_0.45347837.jpg
+- data/imagenet-a/n02279972/0.000082_bubble _ bubble_0.50572366.jpg
+- data/imagenet-a/n01616318/0.003563_red fox _ red fox_0.21631776.jpg
+- data/imagenet-a/n01631663/0.001854_rhinoceros beetle _ rhinoceros beetle_0.9886768.jpg
+- data/imagenet-a/n03444034/0.005271_bow tie _ bow tie_0.43330082.jpg
+- data/imagenet-a/n01914609/0.008766_mushroom _ chain_0.8500203.jpg
+- data/imagenet-a/n02226429/0.001251_centipede _ centipede_0.8601019.jpg
+- data/imagenet-a/n02206856/0.000029_washing machine _ washing machine_0.9313738.jpg
+- data/imagenet-a/n01819313/0.011262_doormat _ viaduct_0.2307827.jpg
+- data/imagenet-a/n03250847/0.005878_dumbbell _ dumbbell_0.45580897.jpg
+- data/imagenet-a/n01820546/0.017134_cliff _ cliff_0.41790187.jpg
+- data/imagenet-a/n02051845/0.006625_reel _ reel_0.96441346.jpg
+- data/imagenet-a/n01735189/0.000118_bow _ bow_0.9672299.jpg
+- data/imagenet-a/n02119022/0.071646_Chihuahua _ Chihuahua_0.9676192.jpg
+- data/imagenet-a/n03982430/0.002284_drumstick _ drumstick_0.85207844.jpg
+- data/imagenet-a/n01534433/0.003559_flagpole _ flagpole_0.53158.jpg
+- data/imagenet-a/n02999410/0.004453_armadillo _ armadillo_0.24322493.jpg
+- data/imagenet-a/n02346627/0.004151_white-headed capuchin _ white-headed capuchin_0.828159.jpg
+- data/imagenet-a/n02127052/0.000171_sundial _ sundial_0.9788093.jpg
+- data/imagenet-a/n01882714/0.002001_white-headed capuchin _ white-headed capuchin_0.5611577.jpg
+- data/imagenet-a/n04208210/0.003453_snowmobile _ snowmobile_0.9726572.jpg
+- data/imagenet-a/n01669191/0.008706_custard apple _ custard apple_0.6340562.jpg
+- data/imagenet-a/n03594945/0.006381_limousine _ limousine_0.98460835.jpg
+- data/imagenet-a/n03388043/0.000127_chest _ chest_0.9803036.jpg
+- data/imagenet-a/n04039381/0.002914_balance beam _ balance beam_0.97225034.jpg
+- data/imagenet-a/n03590841/0.000070_fountain _ fountain_0.42922726.jpg
+- data/imagenet-a/n07734744/0.002093_syringe _ syringe_0.8696972.jpg
+- data/imagenet-a/n02219486/0.001259_broccoli _ broccoli_0.7509201.jpg
+- data/imagenet-a/n03445924/0.001562_jeep _ jeep_0.9524514.jpg
+- data/imagenet-a/n03026506/0.005792_sandal _ sandal_0.8444126.jpg
+- data/imagenet-a/n09229709/0.000710_pug _ pug_0.89859635.jpg
+- data/imagenet-a/n01833805/0.002359_garter snake _ garter snake_0.72452617.jpg
+- data/imagenet-a/n02356798/0.004303_parachute _ parachute_0.73512846.jpg
+- data/imagenet-a/n01614925/0.004033_toucan _ toucan_0.56705844.jpg
+- data/imagenet-a/n02137549/0.044198_fox squirrel _ fox squirrel_0.6756833.jpg
+- data/imagenet-a/n02280649/0.002705_armadillo _ armadillo_0.7998539.jpg
+- data/imagenet-a/n03840681/0.001009_pomegranate _ pomegranate_0.9946089.jpg
+- data/imagenet-a/n02190166/0.001115_harvestman _ harvestman_0.5930334.jpg
+- data/imagenet-a/n01669191/0.001291_marmot _ pug_0.94009304.jpg
+- data/imagenet-a/n02219486/0.000059_teddy bear _ sandal_0.6740389.jpg
+- data/imagenet-a/n02454379/0.004346_golf cart _ golf cart_0.31525204.jpg
+- data/imagenet-a/n01614925/0.000454_American black bear _ American black bear_0.82686585.jpg
+- data/imagenet-a/n01770393/0.006472_centipede _ centipede_0.8411603.jpg
+- data/imagenet-a/n02190166/0.000048_sundial _ sundial_0.6911737.jpg
+- data/imagenet-a/n04399382/0.000008_sandal _ sandal_0.99824893.jpg
+- data/imagenet-a/n01534433/0.002131_accordion _ accordion_0.2270994.jpg
+- data/imagenet-a/n03223299/0.003068_flagpole _ flagpole_0.20667966.jpg
+- data/imagenet-a/n02948072/0.000818_salt shaker _ salt shaker_0.78279525.jpg
+- data/imagenet-a/n01687978/0.071935_green iguana _ green iguana_0.96222895.jpg
+- data/imagenet-a/n02236044/0.001665_chameleon _ stick insect_0.5428408.jpg
+- data/imagenet-a/n02206856/0.000044_goblet _ goblet_0.9110265.jpg
+- data/imagenet-a/n01944390/0.004557_mongoose _ mongoose_0.40776375.jpg
+- data/imagenet-a/n02281787/0.000213_reel _ reel_0.65601254.jpg
+- data/imagenet-a/n01784675/0.001588_nail _ nail_0.7172801.jpg
+- data/imagenet-a/n01677366/0.005131_wheelbarrow _ wheelbarrow_0.70928466.jpg
+- data/imagenet-a/n04099969/0.004075_spatula _ spatula_0.6609344.jpg
+- data/imagenet-a/n02133161/0.035914_red fox _ red fox_0.56868994.jpg
+- data/imagenet-a/n01843383/0.015201_lorikeet _ lorikeet_0.9921868.jpg
+- data/imagenet-a/n02051845/0.044347_sulphur-crested cockatoo _ sulphur-crested cockatoo_0.8702625.jpg
+- data/imagenet-a/n04235860/0.001235_shovel _ shovel_0.884082.jpg
+- data/imagenet-a/n02137549/0.001848_lighthouse _ lighthouse_0.753934.jpg
+- data/imagenet-a/n02361337/0.004791_shipwreck _ shipwreck_0.85836893.jpg
+- data/imagenet-a/n02793495/0.007673_rocking chair _ rocking chair_0.9599001.jpg
+- data/imagenet-a/n04554684/0.002913_ocarina _ fountain_0.2569341.jpg
+- data/imagenet-a/n04389033/0.003461_shipwreck _ shipwreck_0.72773165.jpg
+- data/imagenet-a/n02317335/0.000527_apron _ stick insect_0.35276595.jpg
+- data/imagenet-a/n04399382/0.001712_unicycle _ unicycle_0.39650294.jpg
+- data/imagenet-a/n03291819/0.000081_limousine _ limousine_0.8564715.jpg
+- data/imagenet-a/n01882714/0.068951_mushroom _ mushroom_0.6155904.jpg
+- data/imagenet-a/n04344873/0.001074_syringe _ syringe_0.74911785.jpg
+- data/imagenet-a/n02281787/0.000104_wheelbarrow _ wheelbarrow_0.9810721.jpg
+- data/imagenet-a/n07749582/0.007007_cucumber _ cucumber_0.3336729.jpg
+- data/imagenet-a/n01774750/0.004123_garter snake _ garter snake_0.67092603.jpg
+- data/imagenet-a/n01614925/0.003118_water tower _ water tower_0.80292475.jpg
+- data/imagenet-a/n01641577/0.003138_crayfish _ pug_0.51399815.jpg
+- data/imagenet-a/n02802426/0.005787_unicycle _ unicycle_0.3575218.jpg
+- data/imagenet-a/n03666591/0.001873_balance beam _ balance beam_0.43527684.jpg
+- data/imagenet-a/n04366367/0.001896_quill _ quill_0.44347456.jpg
+- data/imagenet-a/n07734744/0.000075_nail _ nail_0.99994004.jpg
+- data/imagenet-a/n03724870/0.000296_apron _ apron_0.88366854.jpg
+- data/imagenet-a/n01498041/0.005107_sea lion _ sea lion_0.7491285.jpg
+- data/imagenet-a/n01924916/0.000475_garter snake _ garter snake_0.9994462.jpg
+- data/imagenet-a/n02233338/0.014220_ant _ ant_0.99792045.jpg
+- data/imagenet-a/n07718472/0.000102_salt shaker _ salt shaker_0.83456886.jpg
+- data/imagenet-a/n02119022/0.000354_Rottweiler _ Rottweiler_0.7587839.jpg
+- data/imagenet-a/n01784675/0.000243_hummingbird _ hummingbird_0.9000493.jpg
+- data/imagenet-a/n07583066/0.002641_beaker _ beaker_0.9474163.jpg
+- data/imagenet-a/n09229709/0.003727_American alligator _ American alligator_0.45453575.jpg
+- data/imagenet-a/n02279972/0.000228_flagpole _ water tower_0.4781149.jpg
+- data/imagenet-a/n01531178/0.000234_dragonfly _ dragonfly_0.96127623.jpg
+- data/imagenet-a/n01820546/0.000037_flagpole _ flagpole_0.7662335.jpg
+- data/imagenet-a/n02007558/0.044076_beaker _ beaker_0.6239139.jpg
+- data/imagenet-a/n01820546/0.001701_doormat _ doormat_0.7318424.jpg
+- data/imagenet-a/n01985128/0.003240_cockroach _ scorpion_0.78481454.jpg
+- data/imagenet-a/n03388043/0.000812_unicycle _ unicycle_0.9964765.jpg
+- data/imagenet-a/n01694178/0.035426_green iguana _ American bullfrog_0.7243596.jpg
+- data/imagenet-a/n02106550/0.006325_shovel _ shovel_0.6546541.jpg
+- data/imagenet-a/n01924916/0.000703_cliff _ cliff_0.9099664.jpg
+- data/imagenet-a/n02174001/0.024009_cockroach _ cockroach_0.97276175.jpg
+- data/imagenet-a/n01735189/0.002110_cliff _ cliff_0.5813201.jpg
+- data/imagenet-a/n01534433/0.000765_cliff _ cliff_0.81555015.jpg
+- data/imagenet-a/n03452741/0.005136_spatula _ spatula_0.48789012.jpg
+- data/imagenet-a/n07695742/0.002810_basketball _ basketball_0.8302801.jpg
+- data/imagenet-a/n01910747/0.002633_bubble _ bubble_0.5215417.jpg
+- data/imagenet-a/n02190166/0.000242_ant _ ant_0.59396476.jpg
+- data/imagenet-a/n02802426/0.004300_broom _ broom_0.6454182.jpg
+- data/imagenet-a/n02174001/0.000001_ant _ ant_0.99983287.jpg
+- data/imagenet-a/n01944390/0.002875_cottontail rabbit _ cottontail rabbit_0.8450787.jpg
+- data/imagenet-a/n01985128/0.002723_tarantula _ tarantula_0.9967123.jpg
+- data/imagenet-a/n12144580/0.000022_Persian cat _ Persian cat_0.7563743.jpg
+- data/imagenet-a/n07768694/0.000216_broccoli _ broccoli_0.84364605.jpg
+- data/imagenet-a/n02137549/0.007374_African bush elephant _ African bush elephant_0.4819091.jpg
+- data/imagenet-a/n02231487/0.006885_koala _ koala_0.6312384.jpg
+- data/imagenet-a/n02219486/0.001020_garter snake _ garter snake_0.85132945.jpg
+- data/imagenet-a/n02127052/0.001152_cottontail rabbit _ cottontail rabbit_0.9873226.jpg
+- data/imagenet-a/n02279972/0.000711_wheelbarrow _ wheelbarrow_0.94316673.jpg
+- data/imagenet-a/n04141076/0.003877_rugby ball _ rugby ball_0.6802027.jpg
+- data/imagenet-a/n03417042/0.001378_snowplow _ snowplow_0.9950229.jpg
+- data/imagenet-a/n07734744/0.021078_nail _ nail_0.68631554.jpg
+- data/imagenet-a/n02356798/0.002628_obelisk _ obelisk_0.3625121.jpg
+- data/imagenet-a/n02445715/0.015729_bison _ shovel_0.16473575.jpg
+- data/imagenet-a/n01698640/0.034633_canoe _ canoe_0.8350409.jpg
+- data/imagenet-a/n02948072/0.002230_toaster _ bubble_0.29389602.jpg
+- data/imagenet-a/n04554684/0.003115_soap dispenser _ soap dispenser_0.5981338.jpg
+- data/imagenet-a/n01820546/0.000163_bow _ bow_0.6981515.jpg
+- data/imagenet-a/n02906734/0.001689_academic gown _ academic gown_0.60123134.jpg
+- data/imagenet-a/n01735189/0.011722_canoe _ canoe_0.66532505.jpg
+- data/imagenet-a/n03590841/0.000173_snowmobile _ snowmobile_0.93523467.jpg
+- data/imagenet-a/n11879895/0.002973_viaduct _ viaduct_0.24721815.jpg
+- data/imagenet-a/n02007558/0.015064_great egret _ great egret_0.97303426.jpg
+- data/imagenet-a/n01819313/0.003114_viaduct _ viaduct_0.97982246.jpg
+- data/imagenet-a/n01694178/0.003864_stick insect _ stick insect_0.6396639.jpg
+- data/imagenet-a/n01534433/0.001284_hummingbird _ hummingbird_0.6905484.jpg
+- data/imagenet-a/n04039381/0.003596_balance beam _ volleyball_0.715854.jpg
+- data/imagenet-a/n04507155/0.003284_nail _ nail_0.4426967.jpg
+- data/imagenet-a/n07720875/0.000490_umbrella _ umbrella_0.77023846.jpg
+- data/imagenet-a/n01531178/0.000516_barn _ barn_0.66103417.jpg
+- data/imagenet-a/n02051845/0.009793_submarine _ submarine_0.7957302.jpg
+- data/imagenet-a/n02226429/0.002403_hummingbird _ hummingbird_0.91507894.jpg
+- data/imagenet-a/n01531178/0.000169_baboon _ baboon_0.8697029.jpg
+- data/imagenet-a/n02325366/0.023633_tricycle _ tricycle_0.1766853.jpg
+- data/imagenet-a/n04208210/0.000004_suspension bridge _ suspension bridge_0.9911959.jpg
+- data/imagenet-a/n01580077/0.013166_armadillo _ armadillo_0.5836335.jpg
+- data/imagenet-a/n02123394/0.040470_fox squirrel _ fox squirrel_0.7913084.jpg
+- data/imagenet-a/n02206856/0.000087_scorpion _ dumbbell_0.41805398.jpg
+- data/imagenet-a/n01910747/0.004756_stingray _ stingray_0.9223068.jpg
+- data/imagenet-a/n02690373/0.000616_snowplow _ snowplow_0.98256266.jpg
+- data/imagenet-a/n02361337/0.003064_porcupine _ mongoose_0.79812807.jpg
+- data/imagenet-a/n04033901/0.006100_syringe _ syringe_0.8615998.jpg
+- data/imagenet-a/n02007558/0.000486_pelican _ pelican_0.93921995.jpg
+- data/imagenet-a/n02356798/0.001280_African bush elephant _ African bush elephant_0.46836296.jpg
+- data/imagenet-a/n03325584/0.000862_unicycle _ unicycle_0.7905475.jpg
+- data/imagenet-a/n02281787/0.000190_canoe _ canoe_0.7294641.jpg
+- data/imagenet-a/n02119022/0.000801_shovel _ bow_0.5092591.jpg
+- data/imagenet-a/n02129165/0.003264_cliff _ cliff_0.79319686.jpg
+- data/imagenet-a/n02165456/0.000827_quill _ lighter_0.38006324.jpg
+- data/imagenet-a/n02948072/0.000026_jack-o_-lantern _ jack-o_-lantern_0.99938095.jpg
+- data/imagenet-a/n02268443/0.000520_suspension bridge _ cliff_0.78678775.jpg
+- data/imagenet-a/n01819313/0.057545_vulture _ vulture_0.64711285.jpg
+- data/imagenet-a/n01770393/0.002438_nail _ nail_0.63122094.jpg
+- data/imagenet-a/n03666591/0.000316_torch _ torch_0.99997807.jpg
+- data/imagenet-a/n03594945/0.002218_limousine _ limousine_0.9909741.jpg
+- data/imagenet-a/n01641577/0.002049_toaster _ toaster_0.64076066.jpg
+- data/imagenet-a/n02119022/0.054410_lynx _ lynx_0.86272347.jpg
+- data/imagenet-a/n02009912/0.000435_steam locomotive _ steam locomotive_0.84056395.jpg
+- data/imagenet-a/n01687978/0.000620_soap dispenser _ rotary dial telephone_0.2722201.jpg
+- data/imagenet-a/n02837789/0.009092_breastplate _ apron_0.84119326.jpg
+- data/imagenet-a/n03124043/0.000068_teddy bear _ teddy bear_0.6588935.jpg
+- data/imagenet-a/n01498041/0.000348_chameleon _ box turtle_0.55540705.jpg
+- data/imagenet-a/n03666591/0.000622_sleeping bag _ sleeping bag_0.6370117.jpg
+- data/imagenet-a/n04099969/0.005237_couch _ couch_0.873098.jpg
+- data/imagenet-a/n07831146/0.000852_crayfish _ crayfish_0.22583577.jpg
+- data/imagenet-a/n01924916/0.000647_tricycle _ tricycle_0.7025673.jpg
+- data/imagenet-a/n02281787/0.000028_hair dryer _ syringe_0.9408557.jpg
+- data/imagenet-a/n07718472/0.000034_hot dog _ hot dog_0.9995554.jpg
+- data/imagenet-a/n03837869/0.000555_unicycle _ unicycle_0.5509491.jpg
+- data/imagenet-a/n01498041/0.001295_submarine _ submarine_0.9607397.jpg
+- data/imagenet-a/n02999410/0.004217_barn _ barn_0.69252956.jpg
+- data/imagenet-a/n01735189/0.000183_American black bear _ nail_0.31636837.jpg
+- data/imagenet-a/n02206856/0.001620_starfish _ starfish_0.8996403.jpg
+- data/imagenet-a/n02226429/0.000522_sundial _ sundial_0.9387323.jpg
+- data/imagenet-a/n02137549/0.083703_red fox _ lion_0.73088646.jpg
+- data/imagenet-a/n04146614/0.000507_shovel _ shovel_0.7846093.jpg
+- data/imagenet-a/n02279972/0.000154_apron _ apron_0.71352774.jpg
+- data/imagenet-a/n01770393/0.000491_spatula _ spatula_0.66369426.jpg
+- data/imagenet-a/n04131690/0.003803_hot dog _ hot dog_0.75045675.jpg
+- data/imagenet-a/n04532670/0.004720_lighthouse _ lighthouse_0.76071894.jpg
+- data/imagenet-a/n04275548/0.001772_ant _ ant_0.9873553.jpg
+- data/imagenet-a/n07734744/0.002051_racket _ racket_0.3992568.jpg
+- data/imagenet-a/n01641577/0.003774_agama _ centipede_0.9426876.jpg
+- data/imagenet-a/n02802426/0.000481_baseball player _ baseball player_0.6199775.jpg
+- data/imagenet-a/n01531178/0.001871_agama _ ant_0.9171445.jpg
+- data/imagenet-a/n04389033/0.002357_torch _ torch_0.7906594.jpg
+- data/imagenet-a/n01631663/0.016430_starfish _ custard apple_0.5483298.jpg
+- data/imagenet-a/n02279972/0.000146_red fox _ red fox_0.6082623.jpg
+- data/imagenet-a/n09472597/0.001737_garbage truck _ garbage truck_0.41130495.jpg
+- data/imagenet-a/n02279972/0.000028_green iguana _ green iguana_0.8248079.jpg
+- data/imagenet-a/n07695742/0.000182_chest _ chest_0.6557995.jpg
+- data/imagenet-a/n04399382/0.000253_wheelbarrow _ wheelbarrow_0.918179.jpg
+- data/imagenet-a/n02787622/0.001691_bikini _ bikini_0.70906997.jpg
+- data/imagenet-a/n01910747/0.066160_stingray _ stingray_0.8573044.jpg
+- data/imagenet-a/n01944390/0.000149_cockroach _ cockroach_0.99757415.jpg
+- data/imagenet-a/n01614925/0.000013_armadillo _ armadillo_0.91367507.jpg
+- data/imagenet-a/n04344873/0.000006_shovel _ shovel_0.63256174.jpg
+- data/imagenet-a/n01677366/0.003274_sundial _ sundial_0.9401923.jpg
+- data/imagenet-a/n03590841/0.007436_dumbbell _ dumbbell_0.8029968.jpg
+- data/imagenet-a/n02127052/0.006295_cottontail rabbit _ cottontail rabbit_0.9853727.jpg
+- data/imagenet-a/n01498041/0.002329_shovel _ shovel_0.9193225.jpg
+- data/imagenet-a/n02226429/0.001321_quill _ viaduct_0.6670309.jpg
+- data/imagenet-a/n01735189/0.004046_chain _ chain_0.99507856.jpg
+- data/imagenet-a/n02730930/0.000175_wheelbarrow _ wheelbarrow_0.86908513.jpg
+- data/imagenet-a/n02948072/0.003489_spatula _ spatula_0.71853733.jpg
+- data/imagenet-a/n07697537/0.002743_syringe _ syringe_0.53978467.jpg
+- data/imagenet-a/n01558993/0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg
+- data/imagenet-a/n01910747/0.000149_shovel _ shovel_0.99430144.jpg
+- data/imagenet-a/n01820546/0.001492_airliner _ oystercatcher_0.97461104.jpg
+- data/imagenet-a/n02165456/0.002481_pomegranate _ crayfish_0.25337246.jpg
+- data/imagenet-a/n03014705/0.003226_grand piano _ grand piano_0.9829915.jpg
+- data/imagenet-a/n01843383/0.048977_lorikeet _ lorikeet_0.9086755.jpg
+- data/imagenet-a/n01770393/0.018666_shipwreck _ crayfish_0.86342365.jpg
+- data/imagenet-a/n02119022/0.001089_chest _ chest_0.6628171.jpg
+- data/imagenet-a/n02190166/0.000201_weevil _ ant_0.7874611.jpg
+- data/imagenet-a/n02669723/0.002500_envelope _ envelope_0.72140634.jpg
+- data/imagenet-a/n01698640/0.006416_chameleon _ chameleon_0.8258971.jpg
+- data/imagenet-a/n12144580/0.000101_torch _ torch_0.8528058.jpg
+- data/imagenet-a/n04355338/0.000952_doormat _ doormat_0.987392.jpg
+- data/imagenet-a/n01944390/0.000621_toaster _ toaster_0.75672024.jpg
+- data/imagenet-a/n01531178/0.001738_submarine _ submarine_0.90098894.jpg
+- data/imagenet-a/n01847000/0.001748_tricycle _ balance beam_0.5757523.jpg
+- data/imagenet-a/n02782093/0.000218_torch _ torch_0.8678301.jpg
+- data/imagenet-a/n02454379/0.009028_parking meter _ bubble_0.5592854.jpg
+- data/imagenet-a/n01558993/0.000712_sundial _ sundial_0.8386993.jpg
+- data/imagenet-a/n02165456/0.000803_custard apple _ custard apple_0.5225114.jpg
+- data/imagenet-a/n04208210/0.000004_snowplow _ snowplow_0.9985898.jpg
+- data/imagenet-a/n03720891/0.001783_sleeping bag _ sleeping bag_0.79801434.jpg
+- data/imagenet-a/n02325366/0.007774_parking meter _ parking meter_0.69773406.jpg
+- data/imagenet-a/n01531178/0.003169_hummingbird _ hummingbird_0.91792697.jpg
+- data/imagenet-a/n02690373/0.006405_vulture _ vulture_0.41793635.jpg
+- data/imagenet-a/n04399382/0.003666_forklift _ forklift_0.6390041.jpg
+- data/imagenet-a/n01914609/0.006934_pomegranate _ pomegranate_0.9047587.jpg
+- data/imagenet-a/n02099601/0.005116_jellyfish _ bubble_0.7830071.jpg
+- data/imagenet-a/n01669191/0.006946_acorn _ acorn_0.51143146.jpg
+- data/imagenet-a/n04039381/0.008087_umbrella _ umbrella_0.4410262.jpg
+- data/imagenet-a/n03854065/0.006441_grand piano _ grand piano_0.99756193.jpg
+- data/imagenet-a/n01770081/0.000801_stick insect _ stick insect_0.99726045.jpg
+- data/imagenet-a/n01924916/0.000841_newt _ garter snake_0.46422315.jpg
+- data/imagenet-a/n03590841/0.001115_rocking chair _ rocking chair_0.2192492.jpg
+- data/imagenet-a/n02007558/0.019153_bison _ bison_0.9365563.jpg
+- data/imagenet-a/n02883205/0.008650_stethoscope _ stethoscope_0.75088114.jpg
+- data/imagenet-a/n07734744/0.001370_spatula _ spatula_0.82160896.jpg
+- data/imagenet-a/n07720875/0.000816_spatula _ spatula_0.9818339.jpg
+- data/imagenet-a/n02007558/0.000462_Chihuahua _ oystercatcher_0.551366.jpg
+- data/imagenet-a/n01631663/0.006463_flatworm _ flatworm_0.9480259.jpg
+- data/imagenet-a/n02190166/0.000109_reel _ reel_0.6905173.jpg
+- data/imagenet-a/n02999410/0.000572_mosque _ mosque_0.43456495.jpg
+- data/imagenet-a/n11879895/0.004450_suspension bridge _ suspension bridge_0.67084354.jpg
+- data/imagenet-a/n01641577/0.002058_newt _ syringe_0.9579906.jpg
+- data/imagenet-a/n01914609/0.004428_pufferfish _ pufferfish_0.7733884.jpg
+- data/imagenet-a/n02206856/0.000366_sandal _ sandal_0.6564819.jpg
+- data/imagenet-a/n01698640/0.065842_vulture _ bald eagle_0.5729053.jpg
+- data/imagenet-a/n02356798/0.001405_baboon _ baboon_0.6233878.jpg
+- data/imagenet-a/n04591713/0.006553_hair dryer _ hair dryer_0.64083344.jpg
+- data/imagenet-a/n01498041/0.000539_American alligator _ American alligator_0.85773236.jpg
+- data/imagenet-a/n02106550/0.008985_torch _ torch_0.34826842.jpg
+- data/imagenet-a/n04039381/0.007552_unicycle _ unicycle_0.9679139.jpg
+- data/imagenet-a/n03026506/0.000035_hair dryer _ hair dryer_0.93875736.jpg
+- data/imagenet-a/n04591713/0.003756_spatula _ unicycle_0.21833302.jpg
+- data/imagenet-a/n02279972/0.001565_broom _ stick insect_0.97484016.jpg
+- data/imagenet-a/n01631663/0.005232_starfish _ starfish_0.48647797.jpg
+- data/imagenet-a/n01616318/0.007553_parking meter _ parking meter_0.91947836.jpg
+- data/imagenet-a/n01677366/0.000323_goose _ goose_0.57691437.jpg
+- data/imagenet-a/n02777292/0.001496_forklift _ forklift_0.9044476.jpg
+- data/imagenet-a/n02206856/0.000019_sandal _ sandal_0.94629115.jpg
+- data/imagenet-a/n02099601/0.000539_jeep _ jeep_0.76522887.jpg
+- data/imagenet-a/n02236044/0.002029_drumstick _ drumstick_0.95437384.jpg
+- data/imagenet-a/n01843383/0.022102_hummingbird _ hummingbird_0.5761392.jpg
+- data/imagenet-a/n02281787/0.004412_porcupine _ flatworm_0.43744177.jpg
+- data/imagenet-a/n01833805/0.005733_quill _ shipwreck_0.36252365.jpg
+- data/imagenet-a/n04507155/0.004477_flagpole _ flagpole_0.17348036.jpg
+- data/imagenet-a/n04591713/0.001954_mushroom _ doormat_0.70946217.jpg
+- data/imagenet-a/n01770393/0.000515_marmot _ mitten_0.87764406.jpg
+- data/imagenet-a/n02190166/0.000232_clothes iron _ manhole cover_0.6045376.jpg
+- data/imagenet-a/n01558993/0.004679_toucan _ koala_0.658154.jpg
+- data/imagenet-a/n02129165/0.000732_marmot _ marmot_0.88161445.jpg
+- data/imagenet-a/n01770393/0.002022_rhinoceros beetle _ rhinoceros beetle_0.99646664.jpg
+- data/imagenet-a/n11879895/0.002031_cliff _ cliff_0.7211073.jpg
+- data/imagenet-a/n02672831/0.000210_school bus _ school bus_0.98059547.jpg
+- data/imagenet-a/n03666591/0.002871_soap dispenser _ soap dispenser_0.88359267.jpg
+- data/imagenet-a/n02280649/0.002191_syringe _ syringe_0.7693539.jpg
+- data/imagenet-a/n01558993/0.000210_tricycle _ tricycle_0.917258.jpg
+- data/imagenet-a/n04399382/0.000207_ambulance _ ambulance_0.8666405.jpg
+- data/imagenet-a/n02219486/0.000005_salt shaker _ salt shaker_0.9521589.jpg
+- data/imagenet-a/n01698640/0.030332_dragonfly _ dragonfly_0.9104356.jpg
+- data/imagenet-a/n01631663/0.000522_sulphur-crested cockatoo _ bee_0.5349475.jpg
+- data/imagenet-a/n02883205/0.001203_Chihuahua _ Chihuahua_0.84376585.jpg
+- data/imagenet-a/n02454379/0.010777_porcupine _ porcupine_0.33870572.jpg
+- data/imagenet-a/n01843383/0.002220_white-headed capuchin _ white-headed capuchin_0.8248959.jpg
+- data/imagenet-a/n02361337/0.000062_white-headed capuchin _ white-headed capuchin_0.8865328.jpg
+- data/imagenet-a/n04562935/0.001315_schooner _ schooner_0.72983223.jpg
+- data/imagenet-a/n01531178/0.002136_junco _ junco_0.99912184.jpg
+- data/imagenet-a/n02797295/0.000815_parachute _ parachute_0.21673895.jpg
+- data/imagenet-a/n01914609/0.007571_pretzel _ pretzel_0.7226282.jpg
+- data/imagenet-a/n02445715/0.020977_cottontail rabbit _ armadillo_0.64887375.jpg
+- data/imagenet-a/n02279972/0.000068_garbage truck _ garbage truck_0.22713625.jpg
+- data/imagenet-a/n03125729/0.003437_bubble _ bubble_0.37584192.jpg
+- data/imagenet-a/n02281787/0.000623_grasshopper _ grasshopper_0.99327177.jpg
+- data/imagenet-a/n02007558/0.044935_great egret _ great egret_0.97162163.jpg
+- data/imagenet-a/n02280649/0.001650_sea anemone _ sea anemone_0.6472555.jpg
+- data/imagenet-a/n01687978/0.071858_cottontail rabbit _ cottontail rabbit_0.7262322.jpg
+- data/imagenet-a/n03724870/0.007239_spatula _ spatula_0.38637164.jpg
+- data/imagenet-a/n01641577/0.001705_cockroach _ cockroach_0.90022594.jpg
+- data/imagenet-a/n01784675/0.010647_tarantula _ tarantula_0.86367863.jpg
+- data/imagenet-a/n01914609/0.007449_snail _ snail_0.8770554.jpg
+- data/imagenet-a/n02231487/0.000471_sewing machine _ sewing machine_0.558535.jpg
+- data/imagenet-a/n02190166/0.000070_duck _ starfish_0.552089.jpg
+- data/imagenet-a/n04235860/0.001098_rocking chair _ rocking chair_0.54623854.jpg
+- data/imagenet-a/n01677366/0.035321_chameleon _ mantis_0.79543626.jpg
+- data/imagenet-a/n02655020/0.001961_cockroach _ cockroach_0.38325363.jpg
+- data/imagenet-a/n07718472/0.002578_broccoli _ broccoli_0.9924589.jpg
+- data/imagenet-a/n02051845/0.002088_canoe _ canoe_0.3796842.jpg
+- data/imagenet-a/n04133789/0.004874_bow _ garbage truck_0.1494392.jpg
+- data/imagenet-a/n03594945/0.000579_suspension bridge _ suspension bridge_0.9724807.jpg
+- data/imagenet-a/n02226429/0.001371_manhole cover _ manhole cover_0.5355912.jpg
+- data/imagenet-a/n02281787/0.002356_rhinoceros beetle _ rhinoceros beetle_0.8677914.jpg
+- data/imagenet-a/n03388043/0.003953_pomegranate _ pomegranate_0.9441238.jpg
+- data/imagenet-a/n01531178/0.001187_vulture _ vulture_0.81028295.jpg
+- data/imagenet-a/n07718472/0.003994_salt shaker _ salt shaker_0.41798663.jpg
+- data/imagenet-a/n01985128/0.018808_flatworm _ flatworm_0.6541133.jpg
+- data/imagenet-a/n02279972/0.000076_vulture _ parachute_0.7785118.jpg
+- data/imagenet-a/n02486410/0.070391_African bush elephant _ African bush elephant_0.99490523.jpg
+- data/imagenet-a/n02690373/0.003642_snowplow _ snowplow_0.6617736.jpg
+- data/imagenet-a/n02123394/0.011430_cottontail rabbit _ Chihuahua_0.73364097.jpg
+- data/imagenet-a/n07583066/0.000228_hot dog _ hot dog_0.9998572.jpg
+- data/imagenet-a/n04399382/0.000526_sea lion _ sea lion_0.42248446.jpg
+- data/imagenet-a/n02119022/0.068270_mongoose _ mongoose_0.92461854.jpg
+- data/imagenet-a/n02165456/0.003731_acorn _ acorn_0.9834072.jpg
+- data/imagenet-a/n02051845/0.002708_balloon _ balloon_0.4267749.jpg
+- data/imagenet-a/n02233338/0.013457_ant _ ant_0.7672584.jpg
+- data/imagenet-a/n02356798/0.001985_sea lion _ sea lion_0.987723.jpg
+- data/imagenet-a/n11879895/0.000039_nail _ nail_0.9986204.jpg
+- data/imagenet-a/n01944390/0.000798_nail _ nail_0.9904054.jpg
+- data/imagenet-a/n02445715/0.000946_parking meter _ parking meter_0.7827669.jpg
+- data/imagenet-a/n01944390/0.000786_spider web _ cliff_0.5564461.jpg
+- data/imagenet-a/n07734744/0.000139_quill _ quill_0.8124201.jpg
+- data/imagenet-a/n01855672/0.003498_steam locomotive _ steam locomotive_0.5830113.jpg
+- data/imagenet-a/n02410509/0.029969_stick insect _ stick insect_0.9347622.jpg
+- data/imagenet-a/n04376876/0.000187_nail _ nail_0.9283915.jpg
+- data/imagenet-a/n03982430/0.000266_couch _ couch_0.9886254.jpg
+- data/imagenet-a/n04086273/0.000287_apron _ apron_0.85121924.jpg
+- data/imagenet-a/n02281787/0.001070_ladybug _ ladybug_0.98065406.jpg
+- data/imagenet-a/n01614925/0.000131_bubble _ bubble_0.9467577.jpg
+- data/imagenet-a/n01910747/0.002103_American bullfrog _ American bullfrog_0.6985208.jpg
+- data/imagenet-a/n02793495/0.005426_saxophone _ accordion_0.32161304.jpg
+- data/imagenet-a/n04270147/0.000435_rotary dial telephone _ rotary dial telephone_0.9268941.jpg
+- data/imagenet-a/n03724870/0.000355_bow tie _ bow tie_0.8583272.jpg
+- data/imagenet-a/n02233338/0.010081_hummingbird _ hummingbird_0.8832492.jpg
+- data/imagenet-a/n04039381/0.003889_balance beam _ balance beam_0.9886352.jpg
+- data/imagenet-a/n02190166/0.000204_tarantula _ tarantula_0.78820205.jpg
+- data/imagenet-a/n04133789/0.000663_wheelbarrow _ wheelbarrow_0.9114859.jpg
+- data/imagenet-a/n01784675/0.001700_doormat _ doormat_0.8271606.jpg
+- data/imagenet-a/n01669191/0.006322_mushroom _ American bullfrog_0.91481674.jpg
+- data/imagenet-a/n04456115/0.007373_racket _ racket_0.86317086.jpg
+- data/imagenet-a/n04399382/0.004747_Chihuahua _ Chihuahua_0.5425046.jpg
+- data/imagenet-a/n01985128/0.068768_scorpion _ scorpion_0.9224977.jpg
+- data/imagenet-a/n02676566/0.002363_saxophone _ saxophone_0.9632064.jpg
+- data/imagenet-a/n01641577/0.009836_bell pepper _ bell pepper_0.84202665.jpg
+- data/imagenet-a/n02782093/0.000193_fountain _ fountain_0.81340253.jpg
+- data/imagenet-a/n04252077/0.001419_steam locomotive _ steam locomotive_0.3485929.jpg
+- data/imagenet-a/n02129165/0.006126_koala _ koala_0.68662035.jpg
+- data/imagenet-a/n03720891/0.002115_Christmas stocking _ Christmas stocking_0.8750405.jpg
+- data/imagenet-a/n01770393/0.068491_tarantula _ tarantula_0.41650978.jpg
+- data/imagenet-a/n03196217/0.002654_sandal _ sandal_0.9405512.jpg
+- data/imagenet-a/n02980441/0.003641_viaduct _ viaduct_0.9908922.jpg
+- data/imagenet-a/n01820546/0.006858_flagpole _ flagpole_0.5575158.jpg
+- data/imagenet-a/n01580077/0.000285_shovel _ shovel_0.6385658.jpg
+- data/imagenet-a/n02356798/0.002200_white-headed capuchin _ white-headed capuchin_0.9756433.jpg
+- data/imagenet-a/n01641577/0.001816_red fox _ American alligator_0.1430851.jpg
+- data/imagenet-a/n01770393/0.000828_rotary dial telephone _ rotary dial telephone_0.6122702.jpg
+- data/imagenet-a/n01944390/0.001632_sleeping bag _ sleeping bag_0.60279113.jpg
+- data/imagenet-a/n02165456/0.004097_acorn _ acorn_0.75676024.jpg
+- data/imagenet-a/n03666591/0.007916_bubble _ bubble_0.79035884.jpg
+- data/imagenet-a/n01910747/0.003649_porcupine _ porcupine_0.5650749.jpg
+- data/imagenet-a/n01910747/0.000314_shovel _ shovel_0.78379834.jpg
+- data/imagenet-a/n02236044/0.005164_pug _ pug_0.698695.jpg
+- data/imagenet-a/n02992211/0.000466_racket _ racket_0.81963813.jpg
+- data/imagenet-a/n04019541/0.000680_Golden Retriever _ German Shepherd Dog_0.4400279.jpg
+- data/imagenet-a/n01784675/0.000121_breastplate _ salt shaker_0.9074633.jpg
+- data/imagenet-a/n02226429/0.000501_sea lion _ sea lion_0.43171796.jpg
+- data/imagenet-a/n02133161/0.032474_rocking chair _ rocking chair_0.8151106.jpg
+- data/imagenet-a/n01531178/0.002817_jay _ jay_0.8856813.jpg
+- data/imagenet-a/n02504458/0.000625_armadillo _ armadillo_0.5792065.jpg
+- data/imagenet-a/n07734744/0.006032_banana _ banana_0.87736905.jpg
+- data/imagenet-a/n04133789/0.002653_starfish _ starfish_0.6470995.jpg
+- data/imagenet-a/n01631663/0.036654_cockroach _ cockroach_0.5843107.jpg
+- data/imagenet-a/n02236044/0.001124_box turtle _ box turtle_0.6014468.jpg
+- data/imagenet-a/n02281787/0.000047_goose _ goose_0.6618728.jpg
+- data/imagenet-a/n02127052/0.000249_armadillo _ water tower_0.3395617.jpg
+- data/imagenet-a/n02119022/0.018740_doormat _ doormat_0.5352154.jpg
+- data/imagenet-a/n01614925/0.002295_stick insect _ stick insect_0.6383872.jpg
+- data/imagenet-a/n02317335/0.009276_chain _ American bullfrog_0.7590096.jpg
+- data/imagenet-a/n01774750/0.009699_wheelbarrow _ wheelbarrow_0.5550627.jpg
+- data/imagenet-a/n04179913/0.000100_banana _ wheelbarrow_0.19620313.jpg
+- data/imagenet-a/n02009912/0.000052_barn _ barn_0.7265996.jpg
+- data/imagenet-a/n01770081/0.003729_cliff _ volcano_0.44156086.jpg
+- data/imagenet-a/n02007558/0.041656_great egret _ great egret_0.9648497.jpg
+- data/imagenet-a/n02999410/0.000292_obelisk _ obelisk_0.40367582.jpg
+- data/imagenet-a/n01843383/0.002231_flagpole _ flagpole_0.8375992.jpg
+- data/imagenet-a/n02174001/0.081356_cockroach _ cockroach_0.98840386.jpg
+- data/imagenet-a/n01694178/0.014012_mantis _ mantis_0.71938926.jpg
+- data/imagenet-a/n04141076/0.000166_suspension bridge _ suspension bridge_0.9835482.jpg
+- data/imagenet-a/n03670208/0.006405_flagpole _ flagpole_0.23970705.jpg
+- data/imagenet-a/n02009912/0.001052_shipwreck _ shipwreck_0.71442825.jpg
+- data/imagenet-a/n02051845/0.034955_vulture _ vulture_0.85252583.jpg
+- data/imagenet-a/n02127052/0.003368_skunk _ dumbbell_0.53979164.jpg
+- data/imagenet-a/n01498041/0.052774_hermit crab _ hermit crab_0.84354925.jpg
+- data/imagenet-a/n01882714/0.001687_American robin _ American robin_0.59137046.jpg
+- data/imagenet-a/n07749582/0.002158_broom _ broom_0.4119467.jpg
+- data/imagenet-a/n02133161/0.023575_bald eagle _ bald eagle_0.5295508.jpg
+- data/imagenet-a/n02906734/0.003113_stethoscope _ stethoscope_0.5343409.jpg
+- data/imagenet-a/n02236044/0.000465_grasshopper _ grasshopper_0.9997212.jpg
+- data/imagenet-a/n01820546/0.000290_flagpole _ flagpole_0.56038225.jpg
+- data/imagenet-a/n04532670/0.002768_volcano _ volcano_0.94983095.jpg
+- data/imagenet-a/n01847000/0.003251_hummingbird _ hummingbird_0.9525839.jpg
+- data/imagenet-a/n03837869/0.003706_lighthouse _ lighthouse_0.96085006.jpg
+- data/imagenet-a/n02119022/0.001948_tricycle _ tricycle_0.44755647.jpg
+- data/imagenet-a/n01819313/0.000883_rapeseed _ rapeseed_0.76929456.jpg
+- data/imagenet-a/n01735189/0.003845_unicycle _ unicycle_0.5543532.jpg
+- data/imagenet-a/n02165456/0.002784_maraca _ chain_0.72288877.jpg
+- data/imagenet-a/n03584829/0.005642_soap dispenser _ digital clock_0.25785252.jpg
+- data/imagenet-a/n03355925/0.005376_castle _ castle_0.9247971.jpg
+- data/imagenet-a/n02206856/0.000034_shovel _ shovel_0.99033177.jpg
+- data/imagenet-a/n07720875/0.000600_corn _ corn_0.9471877.jpg
+- data/imagenet-a/n02655020/0.019463_flatworm _ flatworm_0.385049.jpg
+- data/imagenet-a/n02268443/0.010698_submarine _ submarine_0.49372444.jpg
+- data/imagenet-a/n01914609/0.007598_shipwreck _ mitten_0.6453384.jpg
+- data/imagenet-a/n03594945/0.001930_limousine _ limousine_0.99917704.jpg
+- data/imagenet-a/n03014705/0.004892_parking meter _ parking meter_0.6575931.jpg
+- data/imagenet-a/n03444034/0.000536_cello _ cello_0.69928557.jpg
+- data/imagenet-a/n02226429/0.000284_toaster _ wheelbarrow_0.90080047.jpg
+- data/imagenet-a/n02268443/0.056125_bow _ bow_0.57024133.jpg
+- data/imagenet-a/n02980441/0.001635_parachute _ parachute_0.19662178.jpg
+- data/imagenet-a/n02190166/0.000647_goldfinch _ yellow lady's slipper_0.9152238.jpg
+- data/imagenet-a/n04099969/0.000260_barn _ barn_0.93793046.jpg
+- data/imagenet-a/n02009912/0.000153_cliff _ cliff_0.5290139.jpg
+- data/imagenet-a/n02233338/0.000690_washing machine _ washing machine_0.97204584.jpg
+- data/imagenet-a/n01819313/0.000032_canoe _ canoe_0.6866571.jpg
+- data/imagenet-a/n01914609/0.003184_bubble _ bubble_0.8442012.jpg
+- data/imagenet-a/n01558993/0.001466_wheelbarrow _ wheelbarrow_0.90435404.jpg
+- data/imagenet-a/n02346627/0.003824_American black bear _ American black bear_0.9978255.jpg
+- data/imagenet-a/n07695742/0.004751_spatula _ spatula_0.87348557.jpg
+- data/imagenet-a/n02837789/0.000028_pomegranate _ pomegranate_0.69077826.jpg
+- data/imagenet-a/n01498041/0.003270_shipwreck _ sea lion_0.49535587.jpg
+- data/imagenet-a/n01847000/0.023394_jay _ jay_0.9983235.jpg
+- data/imagenet-a/n02127052/0.000486_green iguana _ go-kart_0.3875539.jpg
+- data/imagenet-a/n01770393/0.005329_lighter _ lighter_0.80241674.jpg
+- data/imagenet-a/n04147183/0.000138_reel _ reel_0.99536043.jpg
+- data/imagenet-a/n03982430/0.005782_wheelbarrow _ wheelbarrow_0.13102745.jpg
+- data/imagenet-a/n01669191/0.073521_cottontail rabbit _ Chihuahua_0.8246153.jpg
+- data/imagenet-a/n01784675/0.012056_shovel _ shovel_0.4256593.jpg
+- data/imagenet-a/n02802426/0.006318_umbrella _ umbrella_0.7294925.jpg
+- data/imagenet-a/n02127052/0.001309_porcupine _ porcupine_0.8745019.jpg
+- data/imagenet-a/n02233338/0.001893_ocarina _ ocarina_0.9126695.jpg
+- data/imagenet-a/n03291819/0.000025_toaster _ garbage truck_0.3398307.jpg
+- data/imagenet-a/n07718472/0.000938_beaker _ beaker_0.7784879.jpg
+- data/imagenet-a/n01698640/0.040331_skunk _ mongoose_0.5351547.jpg
+- data/imagenet-a/n04310018/0.003370_volcano _ volcano_0.60305387.jpg
+- data/imagenet-a/n01641577/0.001785_spatula _ syringe_0.47971866.jpg
+- data/imagenet-a/n01985128/0.001250_armadillo _ armadillo_0.6001761.jpg
+- data/imagenet-a/n02007558/0.105300_great egret _ great egret_0.9032696.jpg
+- data/imagenet-a/n01910747/0.024183_acorn _ custard apple_0.8669748.jpg
+- data/imagenet-a/n02236044/0.000548_sandal _ sandal_0.60918784.jpg
+- data/imagenet-a/n02259212/0.001007_bee _ bee_0.92310095.jpg
+- data/imagenet-a/n09246464/0.000060_fountain _ fountain_0.9998367.jpg
+- data/imagenet-a/n01694178/0.017967_American alligator _ American alligator_0.94049776.jpg
+- data/imagenet-a/n01843383/0.000491_lorikeet _ lorikeet_0.3655582.jpg
+- data/imagenet-a/n02279972/0.000610_cottontail rabbit _ volleyball_0.17296849.jpg
+- data/imagenet-a/n02165456/0.000947_accordion _ lighter_0.9095938.jpg
+- data/imagenet-a/n02948072/0.000682_goblet _ goblet_0.9974916.jpg
+- data/imagenet-a/n03388043/0.000533_tricycle _ tricycle_0.7483509.jpg
+- data/imagenet-a/n02782093/0.000081_schooner _ schooner_0.689735.jpg
+- data/imagenet-a/n04275548/0.000623_bee _ bee_0.5054691.jpg
+- data/imagenet-a/n07768694/0.001727_candle _ candle_0.9472607.jpg
+- data/imagenet-a/n02123394/0.021469_Chihuahua _ Chihuahua_0.7435642.jpg
+- data/imagenet-a/n02129165/0.011860_lynx _ lynx_0.49498045.jpg
+- data/imagenet-a/n03666591/0.006846_nail _ nail_0.9580812.jpg
+- data/imagenet-a/n01694178/0.000286_newt _ newt_0.45726153.jpg
+- data/imagenet-a/n01820546/0.001801_billiard table _ billiard table_0.42456126.jpg
+- data/imagenet-a/n02802426/0.003548_broom _ broom_0.45433718.jpg
+- data/imagenet-a/n01770393/0.000642_bubble _ bubble_0.92517906.jpg
+- data/imagenet-a/n01784675/0.003402_syringe _ syringe_0.7404742.jpg
+- data/imagenet-a/n02504458/0.031709_bison _ bison_0.9780879.jpg
+- data/imagenet-a/n04399382/0.000329_syringe _ syringe_0.46685815.jpg
+- data/imagenet-a/n01924916/0.000526_nail _ nail_0.99254274.jpg
+- data/imagenet-a/n01498041/0.006187_spider web _ spider web_0.6316925.jpg
+- data/imagenet-a/n02346627/0.015040_American black bear _ American black bear_0.98322856.jpg
+- data/imagenet-a/n04355338/0.001648_castle _ castle_0.9883986.jpg
+- data/imagenet-a/n01833805/0.007687_garter snake _ garter snake_0.5901028.jpg
+- data/imagenet-a/n02883205/0.001783_limousine _ limousine_0.7086302.jpg
+- data/imagenet-a/n04456115/0.000497_wheelbarrow _ wheelbarrow_0.4290612.jpg
+- data/imagenet-a/n02165456/0.000062_bubble _ bubble_0.97705066.jpg
+- data/imagenet-a/n01985128/0.002224_chameleon _ chameleon_0.9352007.jpg
+- data/imagenet-a/n03291819/0.000681_beaker _ beaker_0.95443517.jpg
+- data/imagenet-a/n02837789/0.002531_weevil _ weevil_0.18710358.jpg
+- data/imagenet-a/n01914609/0.005696_flatworm _ flatworm_0.9985286.jpg
+- data/imagenet-a/n04133789/0.000281_nail _ nail_0.7036002.jpg
+- data/imagenet-a/n02190166/0.000193_sundial _ sundial_0.6323022.jpg
+- data/imagenet-a/n04039381/0.001050_German Shepherd Dog _ shovel_0.89413935.jpg
+- data/imagenet-a/n02999410/0.001898_syringe _ syringe_0.7170918.jpg
+- data/imagenet-a/n04507155/0.002069_sulphur-crested cockatoo _ sulphur-crested cockatoo_0.50469065.jpg
+- data/imagenet-a/n02226429/0.001916_hermit crab _ hermit crab_0.2265092.jpg
+- data/imagenet-a/n01735189/0.009826_white-headed capuchin _ mantis_0.29719517.jpg
+- data/imagenet-a/n02206856/0.000196_chain _ chain_0.47909334.jpg
+- data/imagenet-a/n01534433/0.003638_unicycle _ unicycle_0.38440558.jpg
+- data/imagenet-a/n01770081/0.000143_manhole cover _ manhole cover_0.77828604.jpg
+- data/imagenet-a/n02802426/0.005883_racket _ racket_0.20537515.jpg
+- data/imagenet-a/n02051845/0.054943_vulture _ bald eagle_0.88533914.jpg
+- data/imagenet-a/n02236044/0.001075_starfish _ mitten_0.94526684.jpg
+- data/imagenet-a/n02999410/0.000497_rocking chair _ rocking chair_0.9777526.jpg
+- data/imagenet-a/n01694178/0.046999_white-headed capuchin _ white-headed capuchin_0.6432877.jpg
+- data/imagenet-a/n09246464/0.000822_snowmobile _ snowmobile_0.9754438.jpg
+- data/imagenet-a/n01531178/0.000765_fox squirrel _ ant_0.9486805.jpg
+- data/imagenet-a/n02445715/0.002268_suspension bridge _ suspension bridge_0.53331614.jpg
+- data/imagenet-a/n02127052/0.000062_tricycle _ tricycle_0.6573468.jpg
+- data/imagenet-a/n01616318/0.000151_sea lion _ sea lion_0.70867217.jpg
+- data/imagenet-a/n02190166/0.000064_tarantula _ scorpion_0.99672854.jpg
+- data/imagenet-a/n02445715/0.008148_cottontail rabbit _ lynx_0.38259202.jpg
+- data/imagenet-a/n02504458/0.009991_bison _ bison_0.9349296.jpg
+- data/imagenet-a/n07768694/0.000807_hot dog _ hot dog_0.99751616.jpg
+- data/imagenet-a/n01924916/0.000447_nail _ nail_0.8960579.jpg
+- data/imagenet-a/n04532670/0.005001_castle _ castle_0.9987191.jpg
+- data/imagenet-a/n03788195/0.000251_stingray _ stingray_0.7409649.jpg
+- data/imagenet-a/n02231487/0.003301_custard apple _ custard apple_0.8852721.jpg
+- data/imagenet-a/n01944390/0.000031_doormat _ doormat_0.48569053.jpg
+- data/imagenet-a/n02206856/0.000041_hockey puck _ hockey puck_0.55373657.jpg
+- data/imagenet-a/n02077923/0.003224_submarine _ submarine_0.97515273.jpg
+- data/imagenet-a/n01914609/0.008770_ant _ washing machine_0.64612293.jpg
+- data/imagenet-a/n04275548/0.002958_envelope _ envelope_0.2585564.jpg
+- data/imagenet-a/n03775071/0.000268_shovel _ shovel_0.8711255.jpg
+- data/imagenet-a/n02226429/0.000267_scorpion _ scorpion_0.9231157.jpg
+- data/imagenet-a/n03124043/0.000094_unicycle _ unicycle_0.9931986.jpg
+- data/imagenet-a/n01784675/0.023959_quill _ envelope_0.5101564.jpg
+- data/imagenet-a/n01641577/0.003702_lynx _ lynx_0.6696631.jpg
+- data/imagenet-a/n02445715/0.004551_mongoose _ scorpion_0.68792313.jpg
+- data/imagenet-a/n07734744/0.000457_snail _ snail_0.8131385.jpg
+- data/imagenet-a/n01770393/0.010341_centipede _ centipede_0.99919885.jpg
+- data/imagenet-a/n04509417/0.005540_syringe _ syringe_0.90989935.jpg
+- data/imagenet-a/n01910747/0.039557_box turtle _ box turtle_0.6229454.jpg
+- data/imagenet-a/n01770393/0.002364_grasshopper _ grasshopper_0.9855546.jpg
+- data/imagenet-a/n02077923/0.005131_marmot _ marmot_0.98301655.jpg
+- data/imagenet-a/n02051845/0.048549_great egret _ great egret_0.98466325.jpg
+- data/imagenet-a/n02106550/0.001067_unicycle _ accordion_0.7546428.jpg
+- data/imagenet-a/n02190166/0.001046_banana _ ant_0.89661866.jpg
+- data/imagenet-a/n02504458/0.070939_bison _ bison_0.7399277.jpg
+- data/imagenet-a/n02123394/0.000041_feather boa _ accordion_0.29450762.jpg
+- data/imagenet-a/n07768694/0.000246_broccoli _ broccoli_0.9804304.jpg
+- data/imagenet-a/n04540053/0.004003_balance beam _ balance beam_0.8891886.jpg
+- data/imagenet-a/n01910747/0.002967_nail _ nail_0.9941865.jpg
+- data/imagenet-a/n02672831/0.000214_cello _ cello_0.99975425.jpg
+- data/imagenet-a/n01784675/0.013024_dragonfly _ dragonfly_0.44866544.jpg
+- data/imagenet-a/n01914609/0.006470_snail _ snail_0.8829413.jpg
+- data/imagenet-a/n01558993/0.002791_cliff _ cliff_0.7029242.jpg
+- data/imagenet-a/n01694178/0.003766_golf cart _ limousine_0.18869115.jpg
+- data/imagenet-a/n02259212/0.001175_nail _ nail_0.87616366.jpg
+- data/imagenet-a/n07768694/0.000282_corn _ corn_0.8219703.jpg
+- data/imagenet-a/n04376876/0.004615_lighter _ lighter_0.69176143.jpg
+- data/imagenet-a/n02268443/0.000048_clothes iron _ clothes iron_0.72947264.jpg
+- data/imagenet-a/n02676566/0.004501_rotary dial telephone _ saxophone_0.73115486.jpg
+- data/imagenet-a/n07734744/0.000943_chameleon _ chameleon_0.72606224.jpg
+- data/imagenet-a/n02127052/0.001035_baboon _ bison_0.7089261.jpg
+- data/imagenet-a/n01677366/0.000352_jay _ jay_0.7310384.jpg
+- data/imagenet-a/n02356798/0.000026_nail _ nail_0.9885433.jpg
+- data/imagenet-a/n01843383/0.019363_lorikeet _ lorikeet_0.96558285.jpg
+- data/imagenet-a/n02123394/0.036348_white-headed capuchin _ white-headed capuchin_0.43622765.jpg
+- data/imagenet-a/n01558993/0.001700_grand piano _ grand piano_0.5822162.jpg
+- data/imagenet-a/n02119022/0.097249_lion _ lion_0.540815.jpg
+- data/imagenet-a/n07697537/0.000781_bow tie _ bow tie_0.7892058.jpg
+- data/imagenet-a/n02951358/0.005076_snowplow _ snowplow_0.726086.jpg
+- data/imagenet-a/n01820546/0.002381_porcupine _ porcupine_0.9998604.jpg
+- data/imagenet-a/n01914609/0.010936_cockroach _ centipede_0.664164.jpg
+- data/imagenet-a/n04310018/0.000073_canoe _ canoe_0.29927355.jpg
+- data/imagenet-a/n01770081/0.000796_stick insect _ stick insect_0.98826116.jpg
+- data/imagenet-a/n04347754/0.000327_limousine _ limousine_0.73767626.jpg
+- data/imagenet-a/n07697537/0.000011_syringe _ syringe_0.9890626.jpg
+- data/imagenet-a/n02356798/0.000010_tricycle _ tricycle_0.9862157.jpg
+- data/imagenet-a/n03717622/0.000550_airliner _ airliner_0.5288808.jpg
+- data/imagenet-a/n03854065/0.000001_hockey puck _ hockey puck_0.99970394.jpg
+- data/imagenet-a/n01614925/0.011796_vulture _ vulture_0.99733776.jpg
+- data/imagenet-a/n12144580/0.000466_ladybug _ ladybug_0.88748044.jpg
+- data/imagenet-a/n03617480/0.000030_pretzel _ pretzel_0.73700035.jpg
+- data/imagenet-a/n03444034/0.000437_umbrella _ umbrella_0.5906075.jpg
+- data/imagenet-a/n02504458/0.023032_mushroom _ mushroom_0.9980348.jpg
+- data/imagenet-a/n01985128/0.000069_stingray _ stingray_0.97827405.jpg
+- data/imagenet-a/n02777292/0.013908_broom _ quill_0.3745792.jpg
+- data/imagenet-a/n01558993/0.000272_lighthouse _ lighthouse_0.5415044.jpg
+- data/imagenet-a/n04310018/0.000038_viaduct _ viaduct_0.985496.jpg
+- data/imagenet-a/n02233338/0.004532_doormat _ doormat_0.73365676.jpg
+- data/imagenet-a/n02137549/0.009074_vulture _ armadillo_0.49618813.jpg
+- data/imagenet-a/n01855672/0.000285_doormat _ doormat_0.9662044.jpg
+- data/imagenet-a/n02356798/0.000705_white-headed capuchin _ shipwreck_0.39626563.jpg
+- data/imagenet-a/n01531178/0.005574_sulphur-crested cockatoo _ school bus_0.4303773.jpg
+- data/imagenet-a/n02129165/0.001646_volleyball _ volleyball_0.74350214.jpg
+- data/imagenet-a/n02226429/0.002431_lynx _ lynx_0.61390233.jpg
+- data/imagenet-a/n01694178/0.003496_stick insect _ stick insect_0.37962556.jpg
+- data/imagenet-a/n01944390/0.001304_chain _ bald eagle_0.55927426.jpg
+- data/imagenet-a/n01694178/0.008305_cliff _ cliff_0.8434566.jpg
+- data/imagenet-a/n02226429/0.001237_weevil _ weevil_0.99676573.jpg
+- data/imagenet-a/n02009912/0.001251_shovel _ shovel_0.36620066.jpg
+- data/imagenet-a/n02190166/0.000043_scorpion _ scorpion_0.79925346.jpg
+- data/imagenet-a/n01924916/0.000295_stick insect _ stick insect_0.36077207.jpg
+- data/imagenet-a/n01735189/0.000086_Persian cat _ Persian cat_0.79205406.jpg
+- data/imagenet-a/n03724870/0.000011_rotary dial telephone _ rotary dial telephone_0.9885478.jpg
+- data/imagenet-a/n04146614/0.004017_submarine _ submarine_0.7913386.jpg
+- data/imagenet-a/n02133161/0.005317_water tower _ water tower_0.70859665.jpg
+- data/imagenet-a/n01698640/0.011831_dragonfly _ dragonfly_0.38333115.jpg
+- data/imagenet-a/n04366367/0.000341_cliff _ cliff_0.9949426.jpg
+- data/imagenet-a/n02948072/0.000065_syringe _ syringe_0.85057527.jpg
+- data/imagenet-a/n02999410/0.003010_shovel _ shovel_0.5775583.jpg
+targets:
+- 57
+- 58
+- 133
+- 13
+- 55
+- 170
+- 85
+- 58
+- 148
+- 195
+- 109
+- 6
+- 24
+- 164
+- 27
+- 11
+- 164
+- 55
+- 36
+- 109
+- 5
+- 48
+- 111
+- 3
+- 75
+- 147
+- 163
+- 149
+- 29
+- 16
+- 60
+- 160
+- 66
+- 49
+- 15
+- 10
+- 48
+- 30
+- 99
+- 94
+- 160
+- 178
+- 149
+- 53
+- 97
+- 53
+- 64
+- 66
+- 73
+- 168
+- 63
+- 200
+- 43
+- 43
+- 31
+- 34
+- 53
+- 88
+- 23
+- 22
+- 55
+- 115
+- 33
+- 16
+- 87
+- 14
+- 25
+- 11
+- 25
+- 34
+- 17
+- 67
+- 162
+- 53
+- 91
+- 111
+- 53
+- 49
+- 161
+- 108
+- 135
+- 34
+- 60
+- 11
+- 28
+- 53
+- 58
+- 18
+- 55
+- 27
+- 15
+- 137
+- 193
+- 45
+- 195
+- 94
+- 142
+- 148
+- 70
+- 45
+- 63
+- 28
+- 43
+- 146
+- 17
+- 31
+- 164
+- 6
+- 104
+- 45
+- 142
+- 12
+- 7
+- 148
+- 36
+- 88
+- 149
+- 84
+- 34
+- 60
+- 58
+- 190
+- 17
+- 55
+- 9
+- 108
+- 13
+- 106
+- 66
+- 27
+- 58
+- 40
+- 53
+- 158
+- 192
+- 67
+- 197
+- 49
+- 31
+- 21
+- 174
+- 1
+- 29
+- 56
+- 142
+- 24
+- 45
+- 7
+- 52
+- 36
+- 165
+- 178
+- 9
+- 74
+- 193
+- 71
+- 133
+- 36
+- 13
+- 46
+- 162
+- 180
+- 117
+- 27
+- 129
+- 29
+- 54
+- 70
+- 53
+- 69
+- 52
+- 81
+- 61
+- 4
+- 4
+- 36
+- 178
+- 9
+- 60
+- 138
+- 138
+- 4
+- 102
+- 34
+- 19
+- 6
+- 29
+- 9
+- 187
+- 111
+- 45
+- 2
+- 118
+- 2
+- 11
+- 54
+- 64
+- 45
+- 21
+- 169
+- 53
+- 19
+- 188
+- 106
+- 24
+- 9
+- 45
+- 17
+- 19
+- 33
+- 22
+- 197
+- 126
+- 3
+- 46
+- 137
+- 99
+- 16
+- 58
+- 21
+- 63
+- 29
+- 43
+- 2
+- 40
+- 49
+- 31
+- 187
+- 187
+- 68
+- 22
+- 4
+- 30
+- 165
+- 10
+- 167
+- 26
+- 99
+- 28
+- 55
+- 31
+- 45
+- 30
+- 34
+- 13
+- 21
+- 178
+- 15
+- 70
+- 129
+- 55
+- 78
+- 6
+- 111
+- 127
+- 67
+- 22
+- 14
+- 55
+- 159
+- 29
+- 4
+- 21
+- 125
+- 187
+- 3
+- 30
+- 76
+- 124
+- 176
+- 10
+- 58
+- 55
+- 191
+- 108
+- 57
+- 53
+- 92
+- 169
+- 11
+- 43
+- 187
+- 168
+- 22
+- 87
+- 2
+- 61
+- 27
+- 67
+- 31
+- 177
+- 52
+- 140
+- 67
+- 46
+- 67
+- 11
+- 153
+- 117
+- 3
+- 12
+- 139
+- 123
+- 31
+- 3
+- 54
+- 70
+- 23
+- 124
+- 83
+- 17
+- 6
+- 22
+- 56
+- 43
+- 16
+- 6
+- 52
+- 159
+- 95
+- 82
+- 55
+- 196
+- 32
+- 34
+- 187
+- 10
+- 31
+- 6
+- 10
+- 35
+- 197
+- 87
+- 91
+- 131
+- 73
+- 15
+- 57
+- 193
+- 99
+- 52
+- 139
+- 23
+- 129
+- 91
+- 148
+- 43
+- 28
+- 129
+- 108
+- 70
+- 170
+- 24
+- 138
+- 8
+- 153
+- 24
+- 52
+- 58
+- 21
+- 53
+- 186
+- 123
+- 16
+- 192
+- 60
+- 4
+- 34
+- 17
+- 28
+- 47
+- 65
+- 33
+- 168
+- 69
+- 187
+- 124
+- 12
+- 24
+- 20
+- 63
+- 147
+- 20
+- 172
+- 121
+- 5
+- 73
+- 100
+- 187
+- 129
+- 115
+- 12
+- 67
+- 122
+- 27
+- 29
+- 102
+- 37
+- 191
+- 56
+- 25
+- 52
+- 33
+- 114
+- 124
+- 5
+- 123
+- 142
+- 86
+- 136
+- 36
+- 37
+- 43
+- 34
+- 35
+- 29
+- 115
+- 126
+- 67
+- 7
+- 3
+- 88
+- 55
+- 99
+- 1
+- 87
+- 40
+- 9
+- 10
+- 149
+- 6
+- 13
+- 150
+- 13
+- 178
+- 29
+- 31
+- 67
+- 48
+- 65
+- 58
+- 22
+- 128
+- 34
+- 52
+- 63
+- 1
+- 177
+- 177
+- 11
+- 60
+- 43
+- 193
+- 136
+- 4
+- 28
+- 49
+- 121
+- 48
+- 71
+- 187
+- 31
+- 67
+- 150
+- 115
+- 92
+- 61
+- 148
+- 58
+- 29
+- 45
+- 191
+- 168
+- 80
+- 65
+- 8
+- 175
+- 40
+- 165
+- 42
+- 3
+- 45
+- 142
+- 166
+- 43
+- 36
+- 13
+- 188
+- 13
+- 10
+- 24
+- 1
+- 135
+- 2
+- 39
+- 55
+- 52
+- 8
+- 11
+- 45
+- 15
+- 194
+- 133
+- 182
+- 25
+- 170
+- 29
+- 187
+- 129
+- 21
+- 163
+- 156
+- 94
+- 70
+- 23
+- 93
+- 45
+- 33
+- 91
+- 65
+- 63
+- 67
+- 177
+- 48
+- 32
+- 106
+- 36
+- 15
+- 152
+- 70
+- 1
+- 185
+- 15
+- 20
+- 45
+- 178
+- 146
+- 86
+- 2
+- 87
+- 13
+- 43
+- 44
+- 16
+- 97
+- 44
+- 49
+- 45
+- 58
+- 44
+- 99
+- 150
+- 9
+- 54
+- 48
+- 25
+- 20
+- 9
+- 142
+- 1
+- 67
+- 67
+- 164
+- 49
+- 172
+- 62
+- 95
+- 178
+- 102
+- 144
+- 144
+- 10
+- 146
+- 109
+- 5
+- 10
+- 21
+- 7
+- 28
+- 52
+- 28
+- 64
+- 180
+- 129
+- 155
+- 58
+- 79
+- 29
+- 132
+- 58
+- 2
+- 124
+- 62
+- 54
+- 150
+- 169
+- 179
+- 59
+- 34
+- 11
+- 82
+- 46
+- 42
+- 168
+- 9
+- 28
+- 18
+- 160
+- 10
+- 31
+- 8
+- 166
+- 143
+- 100
+- 31
+- 8
+- 66
+- 188
+- 126
+- 40
+- 192
+- 43
+- 143
+- 82
+- 58
+- 59
+- 161
+- 45
+- 21
+- 12
+- 58
+- 106
+- 90
+- 88
+- 70
+- 44
+- 169
+- 29
+- 46
+- 52
+- 22
+- 165
+- 60
+- 18
+- 45
+- 55
+- 7
+- 129
+- 193
+- 178
+- 55
+- 22
+- 166
+- 178
+- 2
+- 94
+- 159
+- 158
+- 70
+- 3
+- 33
+- 53
+- 63
+- 40
+- 27
+- 74
+- 84
+- 114
+- 44
+- 63
+- 75
+- 11
+- 183
+- 34
+- 33
+- 159
+- 170
+- 17
+- 29
+- 23
+- 25
+- 20
+- 21
+- 20
+- 124
+- 178
+- 14
+- 6
+- 1
+- 36
+- 85
+- 191
+- 176
+- 12
+- 83
+- 10
+- 168
+- 67
+- 1
+- 27
+- 14
+- 31
+- 4
+- 163
+- 30
+- 149
+- 5
+- 13
+- 75
+- 5
+- 5
+- 29
+- 46
+- 20
+- 45
+- 148
+- 200
+- 25
+- 162
+- 112
+- 71
+- 182
+- 137
+- 133
+- 177
+- 163
+- 58
+- 45
+- 94
+- 129
+- 28
+- 53
+- 81
+- 53
+- 37
+- 78
+- 28
+- 25
+- 110
+- 118
+- 34
+- 15
+- 178
+- 54
+- 25
+- 137
+- 47
+- 30
+- 44
+- 58
+- 29
+- 111
+- 34
+- 13
+- 61
+- 21
+- 27
+- 65
+- 67
+- 61
+- 88
+- 162
+- 92
+- 25
+- 136
+- 5
+- 74
+- 97
+- 175
+- 49
+- 29
+- 75
+- 4
+- 148
+- 9
+- 65
+- 188
+- 183
+- 113
+- 99
+- 78
+- 133
+- 11
+- 172
+- 60
+- 144
+- 19
+- 163
+- 88
+- 191
+- 44
+- 43
+- 3
+- 32
+- 5
+- 36
+- 106
+- 11
+- 44
+- 65
+- 49
+- 76
+- 190
+- 58
+- 61
+- 17
+- 167
+- 65
+- 25
+- 172
+- 37
+- 22
+- 127
+- 56
+- 52
+- 34
+- 6
+- 25
+- 63
+- 10
+- 34
+- 8
+- 180
+- 34
+- 113
+- 168
+- 74
+- 31
+- 67
+- 1
+- 184
+- 56
+- 20
+- 134
+- 48
+- 9
+- 22
+- 52
+- 15
+- 136
+- 61
+- 173
+- 27
+- 83
+- 21
+- 52
+- 185
+- 67
+- 22
+- 113
+- 187
+- 199
+- 83
+- 13
+- 2
+- 16
+- 8
+- 24
+- 29
+- 46
+- 22
+- 55
+- 189
+- 77
+- 148
+- 108
+- 7
+- 3
+- 66
+- 16
+- 9
+- 28
+- 7
+- 99
+- 107
+- 153
+- 29
+- 67
+- 99
+- 48
+- 148
+- 52
+- 34
+- 45
+- 61
+- 7
+- 8
+- 116
+- 28
+- 55
+- 53
+- 20
+- 107
+- 21
+- 36
+- 15
+- 43
+- 139
+- 3
+- 99
+- 66
+- 45
+- 26
+- 153
+- 10
+- 122
+- 113
+- 142
+- 121
+- 187
+- 54
+- 117
+- 101
+- 193
+- 22
+- 67
+- 6
+- 48
+- 62
+- 134
+- 52
+- 10
+- 54
+- 71
+- 6
+- 17
+- 52
+- 168
+- 3
+- 106
+- 95
+- 12
+- 58
+- 53
+- 30
+- 63
+- 19
+- 11
+- 145
+- 47
+- 23
+- 36
+- 154
+- 48
+- 68
+- 85
+- 176
+- 167
+- 64
+- 168
+- 109
+- 26
+- 162
+- 63
+- 188
+- 18
+- 6
+- 9
+- 87
+- 124
+- 165
+- 187
+- 129
+- 1
+- 29
+- 57
+- 185
+- 43
+- 19
+- 180
+- 193
+- 61
+- 2
+- 21
+- 33
+- 21
+- 31
+- 113
+- 13
+- 40
+- 29
+- 50
+- 15
+- 3
+- 118
+- 181
+- 27
+- 52
+- 87
+- 50
+- 30
+- 31
+- 199
+- 191
+- 48
+- 56
+- 54
+- 45
+- 61
+- 149
+- 114
+- 187
+- 67
+- 70
+- 14
+- 95
+- 176
+- 21
+- 94
+- 15
+- 121
+- 197
+- 33
+- 20
+- 13
+- 3
+- 142
+- 172
+- 186
+- 2
+- 36
+- 55
+- 2
+- 65
+- 153
+- 5
+- 44
+- 53
+- 27
+- 79
+- 68
+- 141
+- 33
+- 67
+- 110
+- 63
+- 43
+- 46
+- 49
+- 95
+- 60
+- 20
+- 17
+- 124
+- 122
+- 9
+- 43
+- 34
+- 12
+- 90
+- 102
+- 1
+- 124
+- 145
+- 192
+- 29
+- 63
+- 185
+- 133
+- 1
+- 99
+- 15
+- 53
+- 55
+- 48
+- 150
+- 61
+- 17
+- 147
+- 174
+- 159
+- 187
+- 9
+- 87
+- 2
+- 167
+- 8
+- 61
+- 195
+- 61
+- 181
+- 168
+- 84
+- 27
+- 30
+- 6
+- 162
+- 11
+- 121
+- 45
+- 1
+- 55
+- 15
+- 81
+- 95
+- 183
+- 4
+- 27
+- 21
+- 49
+- 100
+- 23
+- 17
+- 43
+- 52
+- 76
+- 14
+- 199
+- 164
+- 30
+- 2
+- 24
+- 83
+- 71
+- 4
+- 49
+- 153
+- 127
+- 65
+- 2
+- 79
+- 168
+- 28
+- 39
+- 10
+- 142
+- 135
+- 16
+- 29
+- 121
+- 33
+- 92
+- 187
+- 186
+- 33
+- 8
+- 52
+- 99
+- 197
+- 9
+- 28
+- 53
+- 14
+- 67
+- 178
+- 1
+- 40
+- 142
+- 101
+- 178
+- 61
+- 8
+- 7
+- 11
+- 82
+- 53
+- 39
+- 58
+- 23
+- 63
+- 22
+- 172
+- 178
+- 17
+- 52
+- 4
+- 46
+- 17
+- 197
+- 77
+- 124
+- 62
+- 4
+- 168
+- 54
+- 14
+- 8
+- 92
+- 71
+- 23
+- 68
+- 177
+- 2
+- 86
+- 28
+- 70
+- 61
+- 103
+- 63
+- 33
+- 62
+- 12
+- 129
+- 9
+- 19
+- 28
+- 56
+- 52
+- 154
+- 11
+- 75
+- 185
+- 36
+- 148
+- 122
+- 55
+- 63
+- 113
+- 2
+- 185
+- 31
+- 61
+- 72
+- 79
+- 44
+- 180
+- 168
+- 43
+- 49
+- 36
+- 57
+- 67
+- 197
+- 30
+- 70
+- 30
+- 187
+- 25
+- 69
+- 166
+- 139
+- 144
+- 63
+- 6
+- 27
+- 85
+- 158
+- 129
+- 57
+- 142
+- 52
+- 148
+- 19
+- 10
+- 170
+- 168
+- 31
+- 78
+- 9
+- 83
+- 155
+- 46
+- 127
+- 17
+- 105
+- 97
+- 21
+- 5
+- 67
+- 9
+- 17
+- 30
+- 49
+- 124
+- 27
+- 27
+- 58
+- 98
+- 140
+- 19
+- 55
+- 47
+- 2
+- 74
+- 187
+- 148
+- 8
+- 58
+- 63
+- 45
+- 43
+- 6
+- 64
+- 18
+- 152
+- 34
+- 16
+- 33
+- 99
+- 23
+- 50
+- 13
+- 149
+- 125
+- 34
+- 36
+- 45
+- 1
+- 26
+- 188
+- 47
+- 94
+- 58
+- 21
+- 174
+- 24
+- 133
+- 43
+- 20
+- 15
+- 49
+- 120
+- 111
+- 53
+- 186
+- 75
+- 60
+- 28
+- 122
+- 100
+- 116
+- 55
+- 60
+- 97
+- 52
+- 145
+- 34
+- 57
+- 20
+- 28
+- 4
+- 66
+- 181
+- 90
+- 1
+- 24
+- 45
+- 17
+- 151
+- 139
+- 10
+- 19
+- 87
+- 45
+- 57
+- 109
+- 185
+- 14
+- 160
+- 9
+- 31
+- 33
+- 27
+- 58
+- 59
+- 194
+- 13
+- 23
+- 61
+- 49
+- 95
+- 113
+- 83
+- 159
+- 191
+- 44
+- 46
+- 124
+- 13
+- 21
+- 87
+- 17
+- 19
+- 74
+- 168
+- 29
+- 1
+- 66
+- 164
+- 22
+- 92
+- 170
+- 49
+- 31
+- 109
+- 90
+- 28
+- 148
+- 52
+- 142
+- 99
+- 172
+- 55
+- 15
+- 53
+- 3
+- 16
+- 87
+- 36
+- 58
+- 99
+- 13
+- 194
+- 2
+- 70
+- 45
+- 7
+- 52
+- 70
+- 74
+- 191
+- 29
+- 174
+- 131
+- 56
+- 30
+- 53
+- 37
+- 28
+- 159
+- 130
+- 55
+- 102
+- 19
+- 9
+- 70
+- 187
+- 17
+- 173
+- 27
+- 17
+- 37
+- 36
+- 40
+- 52
+- 74
+- 44
+- 191
+- 175
+- 27
+- 77
+- 19
+- 28
+- 4
+- 13
+- 59
+- 191
+- 166
+- 60
+- 78
+- 187
+- 45
+- 11
+- 67
+- 23
+- 44
+- 4
+- 43
+- 183
+- 96
+- 21
+- 28
+- 160
+- 16
+- 163
+- 183
+- 67
+- 126
+- 135
+- 6
+- 199
+- 123
+- 116
+- 74
+- 31
+- 82
+- 4
+- 160
+- 57
+- 48
+- 25
+- 67
+- 2
+- 46
+- 55
+- 13
+- 30
+- 13
+- 55
+- 34
+- 52
+- 29
+- 15
+- 129
+- 150
+- 47
+- 14
+- 165
+- 95
+- 99

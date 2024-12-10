@@ -1,0 +1,21 @@
+dataset: ImageNet_R
+first_split_size: 20
+other_split_size: 20
+schedule:
+- 35
+schedule_type: cosine
+#When teacher used large vit model, set the batch_size to 32 to prevent exceeding the memory capacity.
+#batch_size: 32
+batch_size: 64
+optimizer: Adam
+lr: 0.001
+momentum: 0.9
+weight_decay: 0
+model_type: zoo
+model_name: vit_pt_imnet
+max_task: -1
+dataroot: data
+workers: 4
+validation: False
+train_aug: True
+rand_split: True
