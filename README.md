@@ -47,7 +47,8 @@ python -u run.py --config configs/imnet-r_prompt.yaml --overwrite 0 \
 
 * You can change the learner_name for DualPrompt or L2P.(And change the prompt_param for different learner. Check the imagenet-r.sh)
 * You can adjust the teacher and student's model with --t_model and --s_model.
-* Change the random_s(random seed) for different results.
+* Change the --random_s(random seed) for different results.
+* Change the --KD_method for different knowledage distillation methods -> ['KD_Token', 'KD', 'DKD', 'FitNets', 'ReviewKD']
 
 
 ## Results
