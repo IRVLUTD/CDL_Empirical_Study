@@ -1,6 +1,6 @@
 ##  Continual Distillation Learning
 PyTorch code for the paper:\
-**Continual Distillation Learning**\
+**Continual Distillation Learning: An Empirical Study of Knowledge Distillation in Prompt-based Continual Learning**\
 Qifan Zhang, Yunhui Guo, Yu Xiang
 
 [arXiv](https://arxiv.org/abs/2407.13911), [Project](https://irvlutd.github.io/CDL/)
@@ -10,12 +10,12 @@ Qifan Zhang, Yunhui Guo, Yu Xiang
 </p>
 
 ## Abstract
-We study the problem of Continual Distillation Learning (CDL) that considers Knowledge Distillation (KD) in the Continual Learning (CL) setup. A teacher model and a student model need to learn a sequence of tasks, and the knowledge of the teacher model will be distillated to the student in order to improve the student model. We introduce a novel method named CDL-Prompt that leverages prompt- based continual learning models to build the teacher-student model. We investigate how to utilize the prompts of the teacher model in the student model for knowledge distillation, and propose an attention-based prompt mapping scheme to use the teacher prompts for the student. We demonstrate that our method can be applied to different prompt-based continual learning models such as L2P, DualPrompt and CODA-Prompt to improve their performance using powerful teacher models. While recent CL methods focus on prompt learning, we show that our method can be utilized to build efficient CL models using prompt-based knowledge distillation.
+Knowledge Distillation (KD) focuses on using a teacher model to improve a student model. Traditionally, KD is studied in an offline fashion, where a training dataset is available before learning. In this work, we introduce the problem of Continual Distillation Learning (CDL) that considers KD in the Continual Learning (CL) setup. A teacher model and a student model need to learn a sequence of tasks, and the knowledge of the teacher model will be distilled to the student to improve the student model in an online fashion. The CDL problem is valuable to study since for prompt-based continual learning methods, using a larger vision transformer (ViT) leads to better performance in continual learning. Distilling the knowledge from a large ViT to a small ViT can improve inference efficiency for promptbased CL models. To this end, we conducted experiments to study the CDL problem with three prompt-based CL models, i.e., L2P, DualPrompt and CODA-Prompt, where we utilized logit distillation, feature distillation and prompt distillation for knowledge distillation from a teacher model to a student model. Our findings of this study can serve as baselines for future CDL work.
 
 
 ## Setup
  * Install anaconda: https://www.anaconda.com/distribution/
- * set up conda environment w/ python 3.8, ex: `conda create --name coda python=3.8`
+ * set up conda environment w/ python 3.8, ex: `conda create --name CDL python=3.8`
  * `conda activate CDL`
  * `sh install_requirements.sh`
  * <b>NOTE: this framework was tested using `torch == 2.0.0` but should work for previous versions</b>
@@ -41,7 +41,8 @@ python -u run.py --config configs/imnet-r_prompt.yaml --overwrite 0 \
     --log_dir Demo_test/coda-p \
     --t_model 'vit_base_patch16_224' \
     --s_model 'vit_small_patch16_224' \
-    --random_s 1
+    --random_s 1 \
+    --KD_method 'KD_Token'
 ```
 
 * You can change the learner_name for DualPrompt or L2P.(And change the prompt_param for different learner. Check the imagenet-r.sh)
@@ -53,7 +54,7 @@ python -u run.py --config configs/imnet-r_prompt.yaml --overwrite 0 \
 
 The results will be saved in the created --log_dir folder, including the models for the teacher and student as well as the final average accuracy for both the teacher and student.
 
-## Citation
+<!-- ## Citation
 If you find the method useful in your research, please consider citing:
 ```latex
 @misc{lu2024adapting,
@@ -64,7 +65,7 @@ If you find the method useful in your research, please consider citing:
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
-```
+``` -->
 
 ## Acknowledgments
 
