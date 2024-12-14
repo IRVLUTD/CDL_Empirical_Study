@@ -14,11 +14,9 @@ Knowledge Distillation (KD) focuses on using a teacher model to improve a studen
 
 
 ## Setup
- * Install anaconda: https://www.anaconda.com/distribution/
  * set up conda environment w/ python 3.8, ex: `conda create --name CDL python=3.8`
  * `conda activate CDL`
  * `sh install_requirements.sh`
- * <b>NOTE: this framework was tested using `torch == 2.0.0` but should work for previous versions</b>
  
 ## Datasets
  * Create a folder `data/`
@@ -26,28 +24,24 @@ Knowledge Distillation (KD) focuses on using a teacher model to improve a studen
  * **ImageNet-R**: retrieve from: https://github.com/hendrycks/imagenet-r
 
 ## Training
-All commands should be run under the project root directory. **The scripts are set up for 2 GPUs** but can be modified for your hardware.
+**The scripts are set up for 2 GPUs** but can be modified for your hardware. You can directly run the run.py and test on ImageNet-R dataset:
 
 ```bash
-sh experiments/cifar100.sh
-sh experiments/imagenet-r.sh
-```
-Or you can directly run the run.py and test on ImageNet-R dataset:
-
-```bash
-python -u run.py --config configs/imnet-r_prompt.yaml --overwrite 0 \
+# prompt parameter args:
+#    arg 1 = prompt component pool size
+#    arg 2 = prompt length
+#    arg 3 = ortho penalty loss weight
+python -u run.py --config $CONFIG --gpuid $GPUID --overwrite $OVERWRITE \
     --learner_type prompt --learner_name CODAPrompt \
     --prompt_param 100 8 0.0 \
-    --log_dir Demo_test/coda-p \
-    --t_model 'vit_base_patch16_224' \
-    --s_model 'vit_small_patch16_224' \
-    --random_s 1 \
-    --KD_method 'KD_Token'
+    --log_dir ${OUTDIR}/coda-p \
+    --t_model $T_MODEL \
+    --s_model $S_MODEL \
+    --KD_method $KD_METHOD
 ```
 
-* You can change the learner_name for DualPrompt or L2P.(And change the prompt_param for different learner. Check the imagenet-r.sh)
+* You can change the learner_name for DualPrompt or L2P.(And change the prompt_param for different learner. Check the experiments/imagenet-r.sh and experiments/cifar-100.sh.
 * You can adjust the teacher and student's model with --t_model and --s_model.
-* Change the --random_s(random seed) for different results.
 * Change the --KD_method for different knowledage distillation methods -> ['KD_Token', 'KD', 'DKD', 'FitNets', 'ReviewKD']
 
 
