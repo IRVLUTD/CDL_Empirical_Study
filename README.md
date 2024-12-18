@@ -22,6 +22,22 @@ Knowledge Distillation (KD) focuses on using a teacher model to improve a studen
  * Create a folder `data/`
  * **CIFAR 100**: should automatically be downloaded
  * **ImageNet-R**: retrieve from: https://github.com/hendrycks/imagenet-r
+ * **./data** should be a folder with the following structure:
+```bash
+  ./data  
+  ├── cifar-100-python  
+  ├── imagenet-r  
+  │   ├── n01443537  
+  │   │   ├── art_0.jpg  
+  │   │   ├── cartoon_0.jpg  
+  │   │   ├── graffiti_0.jpg
+  │   │   └── ...
+  │   ├── n01833805  
+  │   │   ├── art_0.jpg  
+  │   │   ├── cartoon_0.jpg  
+  │   │   ├── graffiti_0.jpg
+          └── ... 
+```
 
 ## Training
 **The scripts are set up for 2 GPUs** but can be modified for your hardware. You can directly run the run.py and test on ImageNet-R dataset:
