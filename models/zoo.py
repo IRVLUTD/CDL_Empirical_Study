@@ -392,16 +392,19 @@ class DualPrompt(nn.Module):
             n_K = nn.functional.normalize(K, dim=1)
             q = nn.functional.normalize(x_querry, dim=1).detach()
             cos_sim = torch.einsum('bj,kj->bk', q, n_K)
+
             
             if train:
                 # dual prompt during training uses task id
                 if self.task_id_bootstrap:
-                    loss = (1.0 - cos_sim[:,task_id]).sum()
+                    #loss = (1.0 - cos_sim[:,task_id]).sum()
+                    loss = (1.0 - cos_sim[:,task_id]).mean()
                     P_ = p[task_id].expand(len(x_querry),-1,-1)
                 else:
                     top_k = torch.topk(cos_sim, self.top_k, dim=1)
                     k_idx = top_k.indices
-                    loss = (1.0 - cos_sim[:,k_idx]).sum()
+                    #loss = (1.0 - cos_sim[:,k_idx]).sum()
+                    loss = (1.0 - cos_sim.gather(1, k_idx)).sum(dim=1).mean()
                     P_ = p[k_idx]
             else:
                 top_k = torch.topk(cos_sim, self.top_k, dim=1)

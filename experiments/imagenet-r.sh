@@ -21,7 +21,7 @@ S_MODEL='vit_small_patch16_224'
 # Get the current time
 CURRENT_TIME=$(date +"%Y%m%d_%H%M%S")
 # Get the KD methods
-KD_METHOD='FitNets'
+KD_METHOD='KD_Token'
 
 # Save directory
 OUTDIR=${CURRENT_TIME}_${T_MODEL}_${S_MODEL}_${RANDOM_SEED}_${DATASET}_${KD_METHOD}/${DATASET}/10-task
